@@ -62,8 +62,8 @@ Para la creación de las visualizaciones se usarán dos aplicaciones web, por lo
 
 Las aplicaciones web son:
 
-* [Raw Graphs](http://rawgraphs.io)
 * [DataWrapper](http://datawrapper.de)
+* [Raw Graphs](http://rawgraphs.io)
 
 Antes de empezar con algunos ejemplos de uso de las herramientas comentadas sería conveniente identificar algunos aspectos comunes de toda herramienta de creación de visualizaciones.
 Básicamente siempre se pueden diferenciar 3 apartados fundamentales: inserción de datos, configuración y adaptación, y exportación de la visualización.
@@ -82,6 +82,38 @@ Una vez cargados los datos se deberá elegir la gráfica que mejor represente el
 Finalizada la visualización es tiempo de exportarla para usarla en otros entornos, ya sea obteniendo la imagen resultante u obteniendo su código embebido (código HTML) para ser integrada en otras webs.
 
 Vistas estas tres secciones de trabajo bastante común en este tipo de herramientas pasamos a mostrar, mediante ejemplos, cada una de las aplicaciones webs comentadas previamente para realizar las visualizaciones de los datos.
+
+
+### Data Wrapper
+
+Data Wrapper es una herramienta web libre y gratuita desarrollada por ABZV (Instituto alemán de formación en periodismo) para realizar visualizaciones de datos. Estas visualizaciones cuentan además con ciertas interacciones qe se pueden definir en la herramienta.
+Al igual que RAW, el ser libre la convierte en una herramienta altamente configurable y modifcable.
+
+**Inserción de datos**
+
+![Insertar datos en data Wrapper](dw1.png)
+
+Esta sección está preparada para que copies el contenido de un fichero CSV o directamente de una hoja de cálculo en la caja de texto que aparece en la interfaz.
+Además permitirá subir directamente un fichero CSV de datos para operar con él.
+
+**Configuración y adaptación**
+
+![Configuración y adaptación en Data Wrapper (1)](dw2.png)
+
+Con los datos ya cargados es hora de revisar que todo se subió correctamente. Para ello tenemos un visualizador en modo tabla de los mismos.
+Además podremos describir los datos indicando si éstos cuentan como cabecera de información en la primera fila o añadiendo nuevas columnas.
+
+![Configuración y adaptación en Data Wrapper (2)](dw3.png)
+
+En el siguiente paso podremos seleccionar que tipo de gráfica y estilos para los datos queremos aplicar.
+Junto a la selección de la gráfica podremos además afinar el resultado de la visualización y añadir campos que nos permitan contar una historia en torno a los datos que se visualizan como es añadir textos y marcar elementos como destacados (entre otras muchas opciones).
+
+**Exportación**
+
+![Exportación en Data Wrapper](dw4.png)
+
+En este paso final se nos permite enlazar directamente a la visualización en el sistema compartiendo en enlace que se muestra. También nos permite copiar el código HTML que genera la visualización para pegarlo directamente en otra web o blog.
+Por último permite crear otra visualización duplicando la actual, facilitando así el trabajo al usuario.
 
 
 ### Raw Graphs
@@ -119,4 +151,14 @@ Este es el paso final antes de poder compartir la visualización. RAW, una vez r
 Además nos permite copiar el código HTML que genera la visualización para pegarlo directamente en otra web o blog.
 
 
+## Insertar visualizaciones en otras web
 
+Una vez realizado todo el trabajo será necesario publicarlo. Se pueden considerar dos tipos de formatos según lo que hemos visto:
+
+**Imagen**
+
+Son relativamente fáciles de integrar en una web con independencia de su formato de fichero (JPG, PNG, SVG, ...). Dependiendo del sistema que estemos usando para publicar la noticia en la que se incluirá dicha visualización puede modificarse la nomenclatura pero buscando una opción de “añadir imagen” o similar tendríamos el trabajo finalizado.
+
+**Código embebido**
+
+El código embebido siempre se encuentra en formato HTML (lenguaje básico de la Web). La mayoría de los sistemas de gestión de contenidos o de blogs (Drupal, Wordpress, Mezzanine, etc.) nos permiten integrar dicho código embebido como parte de la página que estemos editando por lo que copiando el código embebido y pegándolo en el cuerpo de pagina se tendría el trabajo finalizado.
