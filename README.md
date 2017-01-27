@@ -1,6 +1,10 @@
 KIT DE CIBERACTIVISMO SOCIAL
 ============================
 
+# Índice
+
+* [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas)
+
 # Como construir infografías
 
 ## El trabajo de preparación de los datos
@@ -57,20 +61,62 @@ A continuación se verán algunas posibilidades, desde las clásicas hasta las m
 Para la creación de las visualizaciones se usarán dos aplicaciones web, por lo que no serán necesario instalar ningún software en los equipos personales.
 
 Las aplicaciones web son:
-* [Raw](http://app.raw.densitydesign.org)
+
+* [Raw Graphs](http://rawgraphs.io)
 * [DataWrapper](http://datawrapper.de)
 
 Antes de empezar con algunos ejemplos de uso de las herramientas comentadas sería conveniente identificar algunos aspectos comunes de toda herramienta de creación de visualizaciones.
 Básicamente siempre se pueden diferenciar 3 apartados fundamentales: inserción de datos, configuración y adaptación, y exportación de la visualización.
 
 **Inserción de datos**
+
 Se trata de introducir los datos que servirán de materia prima al sistema para la creación de la visualización.
 Pueden existir diversas formas de inserción de datos pero las más comunes son mediante texto (formato CSV) o mediante la subida de un fichero (CSV, ODS, XLS, etc).
 
 **Configuración y adaptación**
+
 Una vez cargados los datos se deberá elegir la gráfica que mejor represente el conjunto de datos con el que se trabaja. Además de ello hay que definir las variables a mostrar, los colores en los que se visualizarán, los textos y algunas cuestiones más.
 
 **Exportación**
+
 Finalizada la visualización es tiempo de exportarla para usarla en otros entornos, ya sea obteniendo la imagen resultante u obteniendo su código embebido (código HTML) para ser integrada en otras webs.
 
-Vistos estas tres secciones de trabajo bastante común en este tipo de herramientas pasamos a mostrar, mediante ejemplos, cada una de las aplicaciones webs comentadas previamente para realizar las visualizaciones de los datos.
+Vistas estas tres secciones de trabajo bastante común en este tipo de herramientas pasamos a mostrar, mediante ejemplos, cada una de las aplicaciones webs comentadas previamente para realizar las visualizaciones de los datos.
+
+
+### Raw Graphs
+
+RAW Graphs es una herramienta web libre y gratuita desarrollada por Density Design Research Lab (Politécnica de Milán) para servir de puente entre hojas de cálculo y gráficas vectoriales.
+Está construído usando como base D3js, una de las librerías gráficas más potentes y extendidas en el mundo web. Además el ser libre la convierte en una herramienta altamente configurable y modifcable.
+
+**Inserción de datos**
+
+![Insertar datos en Raw](raw1.png)
+
+Esta sección está preparada para que copies el contenido de un fichero CSV o directamente de una hoja de cálculo en la caja de texto que aparece en la interfaz.
+Tiene dos tipos de visualización una vez copiados los datos: en modo texto y en modo tabla. Además el sistema indicará si la importación se realizó correctamente.
+
+**Configuración y adaptación**
+
+![Configuración y adaptación en Raw (1)](raw2.png)
+
+En el siguiente paso podremos seleccionar que tipo de gráfica o layout para los datos queremos aplicar.
+El sistema nos proporciona una pequeña miniatura de ejemplo del gráfico, un texto explicativo y un enlace para ahondar en el tipo de gráfica.
+
+![Configuración y adaptación en Raw (2)](raw3.png)
+
+Una vez marcada que tipo de gráfica se va a usar es necesario asociar algunas variables del conjunto de datos a los parámetros de la gráfica para su construcción (serie, jerarquía, tamaño, color, etiqueta, tamaño, ...)
+
+![Configuración y adaptación en Raw (3)](raw4.png)
+
+Además se indicarán algunos parámetros de estilo adicionales tales como tamaños del gráfico y colores de los elementos a mostrar.
+
+**Exportación**
+
+![Exportación en Raw](raw5.png)
+
+Este es el paso final antes de poder compartir la visualización. RAW, una vez realizado el trabajo, nos permite descargarlos como imagen, como gráfico vectorial o como modelo de datos en JSON para usarlo en otra aplicación.
+Además nos permite copiar el código HTML que genera la visualización para pegarlo directamente en otra web o blog.
+
+
+
