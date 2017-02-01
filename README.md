@@ -35,22 +35,19 @@ Alertas de Google es un servicio de supervisión de los contenidos, que ofrece e
 
 ### Comandos para afinar nuestras busquedas
 
-* " ": Para buscar una algo literalmente 
-"tienda de deportes" (compara con tienda de deportes).
+* " ": Para buscar una algo literalmente > "economia social" "la transicionera" (los artículos son exluidos de la búsqueda sino están entre comillas)
 
-* -: Para excluír páginas que incluyan cierto término.
-corte -ingles (compara con corte).
+* -: Para excluír de la busqueda los resultados que incluyan un término concreto> cooperativo -deporte
 
-OR (ó |): Busca páginas que contengan un término u otro.
-patatas OR zanahorias (compara con patatas zanahorias).
+* OR (ó |): Permite agrupar busquedas, incluyendo páginas que contengan un término u otro> Manifestación TTIP Málaga OR Sevilla OR Granada
 
-+: Para incluír palabras que Google por defecto no tiene en cuenta al ser muy comunes (en español: "de", "el", "la".....).
-+la real (compara con la real).
 
-También se usa para que Google distinga acentos, diéresis y la letra ñ, que normalmente son elementos que no distingue.
+* *: Comodín. Utilizado para sustituir una palabra en las busquedas de frases exactas (las que usan "")> 
 
-*: Comodín. Utilizado para sustituir una palabra. Suele combinarse con el operador de literalidad (" ").
-"tienda * deportes" (compara con "tienda deportes").
+* Site: busca en webs especificas> pobreza site:pp.es OR site:psoe.es  OR site:podemos.info OR site:ciudadanos.es
+
+* intitle: limita las busquedas de las palabras al titulo de la página > site:eldiario.es OR site:publico.es intitle:tercer sector
+
 
 # Como construir infografías
 
