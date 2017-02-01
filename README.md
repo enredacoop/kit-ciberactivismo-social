@@ -4,6 +4,32 @@ KIT DE CIBERACTIVISMO SOCIAL
 # Índice
 
 * [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas)
+* [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Técnicas-de-recolección-de-información)
+
+
+# Técnicas de recolección de información
+
+## Tipi Ciudadano
+## Polétika
+## Google alerts
+
+Alertas de Google es un servicio de supervisión de los contenidos, que ofrece el motor de búsqueda de la compañía Google, que automáticamente notifica al usuario cuando el nuevo contenido coincide con un conjunto de términos de búsqueda seleccionados por el usuario. (Wikipedia)
+
+### Posibles usos
+
+* Monitorizar cualquier mención a nuestra organización
+* 
+
+### Configuración básica
+
+* La frecuencia con la que recibes notificaciones
+* Las fuentes donde realizará las busquedas (Noticias, Web, Blogs, vídeos, libros o foros)
+* El idioma
+* La zona del mundo de la que quieres recibir información (por paises)
+* El número de resultados que quieres ver (Todos, o solo los más destacados)
+* Las cuentas que reciben la alerta: Puedes rebirlo en tu mail o en un lector RSS
+
+### Comandos para afinar nuestras busquedas
 
 # Como construir infografías
 
