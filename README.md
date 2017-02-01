@@ -18,7 +18,11 @@ Alertas de Google es un servicio de supervisión de los contenidos, que ofrece e
 ### Posibles usos
 
 * Monitorizar cualquier mención a nuestra organización
-* 
+* Buscar referencias a una campaña que hayamos lanzado
+* Medir la difusión de nuestros contenidos
+* Recibir las novedades sobre un tématica de sitios webs de referencia
+* Monitorizar la actividad en Redes Sociales 
+
 
 ### Configuración básica
 
@@ -30,6 +34,23 @@ Alertas de Google es un servicio de supervisión de los contenidos, que ofrece e
 * Las cuentas que reciben la alerta: Puedes rebirlo en tu mail o en un lector RSS
 
 ### Comandos para afinar nuestras busquedas
+
+* " ": Para buscar una algo literalmente 
+"tienda de deportes" (compara con tienda de deportes).
+
+* -: Para excluír páginas que incluyan cierto término.
+corte -ingles (compara con corte).
+
+OR (ó |): Busca páginas que contengan un término u otro.
+patatas OR zanahorias (compara con patatas zanahorias).
+
++: Para incluír palabras que Google por defecto no tiene en cuenta al ser muy comunes (en español: "de", "el", "la".....).
++la real (compara con la real).
+
+También se usa para que Google distinga acentos, diéresis y la letra ñ, que normalmente son elementos que no distingue.
+
+*: Comodín. Utilizado para sustituir una palabra. Suele combinarse con el operador de literalidad (" ").
+"tienda * deportes" (compara con "tienda deportes").
 
 # Como construir infografías
 
