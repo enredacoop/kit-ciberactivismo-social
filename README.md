@@ -4,16 +4,18 @@ KIT DE CIBERACTIVISMO SOCIAL
 # Índice
 
 * [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas)
-* [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Técnicas-de-recolección-de-información)
+* [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Tcnicas-de-recoleccin-de-informacin)
 
 
 # Técnicas de recolección de información
 
 ## Tipi Ciudadano
-## Polétika
-## Google alerts
 
-Alertas de Google es un servicio de supervisión de los contenidos, que ofrece el motor de búsqueda de la compañía Google, que automáticamente notifica al usuario cuando el nuevo contenido coincide con un conjunto de términos de búsqueda seleccionados por el usuario. (Wikipedia)
+Próximamente...
+
+## Google Alerts
+
+Las Alertas de Google es un servicio de supervisión de los contenidos, que ofrece el motor de búsqueda de la compañía Google, que automáticamente notifica al usuario cuando el nuevo contenido coincide con un conjunto de términos de búsqueda seleccionados por el usuario. (Wikipedia)
 
 ### Posibles usos
 
@@ -50,6 +52,12 @@ Alertas de Google es un servicio de supervisión de los contenidos, que ofrece e
 
 
 # Como construir infografías
+
+## Por qué infografías
+
+Vivimos en la era de los datos, rodeados de ellos y cada va a más. Por otro no solemos sacarle valor a los mismos, ni de forma interna en las organizaciones para medir evoluciones o proyectos ni de forma externa para comunicar mejor. Y es que las infografías son un gran recurso comunicativo (o pieza comunicativa) cuando se desea hacer resúmenes o agregados de cierta información.
+
+Se trabajarán las visualizaciones desde una perspectiva eminentemente práctica con el objetivo de poder usarlas mañana mismo, aunque con ello se pierda la introducción téorica a veces necesarioa.
 
 ## El trabajo de preparación de los datos
 
