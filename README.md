@@ -11,7 +11,13 @@ KIT DE CIBERACTIVISMO SOCIAL
 
 ## Tipi Ciudadano
 
-Próximamente...
+![Logo de Tipi Ciudadano](http://tipiciudadano.es/images/tipigold.png)
+
+[Tipi Ciudadano](http://tipiciudadano.es/) es una herramienta de incidencia política que hace uso de datos públicos para ofrecérselo a la sociedad civil de una forma más organizada y directa. Se basa en la recolección de toda la actividad parlamentaria del Congreso de los Diputados de España y la catalogación de dichas iniciativas en torno a [21 diccionarios temáticos](http://tipiciudadano.es/temas) relacionados con la pobreza y la explusión social.
+
+Para ofrecer todos estos datos, Tipi cuenta con un [escáner o buscador avanzado](http://tipiciudadano.es/escaner) en el que se permiten un número importante de criterios de búsqueda con el objetivo de poder llegar hasta el nivel de detalle que cada usuario requiera. Todos los datos que el escaner ofrece se pueden descargar en formato reutilizable para ser trabajados de manera offline.
+
+Además [el sistema dispone de una API](http://tipiciudadano.es/api-doc) (interfaz de programación de aplicaciones) para que los datos puedan ser integrados con otras aplicaciones de forma casi directa.
 
 ## Google Alerts
 
