@@ -1,11 +1,24 @@
 KIT DE CIBERACTIVISMO SOCIAL
 ============================
 
+# Marco del proyecto
+
+Proyecto formativo titulado **ACTIVISMO DIGITAL. Cómo mejorar el impacto de las acciones comunicativas**. Fue desarrollado presencialmente en Sevilla en febrero de 2017.
+
+## Formación y dinamización
+![Logo de Enreda Cooperativa](enreda.png)
+
+## Organización
+![Logo de Intermón Oxfam](intermon-oxfam.png)
+
+## Financiación
+![Logo de la Agencia Andaluza de Cooperación Internacional para el Desarrollo (AACID)](aacid.jpg)
+
+
 # Índice
 
-* [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas)
 * [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Tcnicas-de-recoleccin-de-informacin)
-
+* [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas) 
 
 # Técnicas de recolección de información
 
