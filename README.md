@@ -234,3 +234,83 @@ Son relativamente fáciles de integrar en una web con independencia de su format
 **Código embebido**
 
 El código embebido siempre se encuentra en formato HTML (lenguaje básico de la Web). La mayoría de los sistemas de gestión de contenidos o de blogs (Drupal, Wordpress, Mezzanine, etc.) nos permiten integrar dicho código embebido como parte de la página que estemos editando por lo que copiando el código embebido y pegándolo en el cuerpo de pagina se tendría el trabajo finalizado.
+
+# Ciberactivismo con FAcebook y Twitter
+
+## El papel de las redes sociales en nuestra estrategia comunicativa online
+
+El papel protagónico que en los últimos años han alcanzado las redes sociales ha provocado que muchas organizaciones se centren exclusivamente en ellas, olvidándose de que ni todas las personas son usuarias de las RRSS, ni estas son el mejor medio para alcanzar algunos de los objetivos que puede plantearse un organización.
+
+Es por ello que, antes de lanzarnos a planear una campaña en RRSS, debemos plantear el rol que jugaran las mismas dentro de todo nuestra estrategia comunicativa online.
+
+En la imagen de arriba vemos una versión (adaptada los objetivos clásicos de un colectivo u organización) del llamado [“embudo de conversión”](https://es.wikipedia.org/wiki/Embudo_de_ventas) que suele usarse en marketing online. 
+
+Dependiendo de los objetivos de nuestra campaña, seleccionaremos cual es el público en el que debemos centrarnos, lo que determinará cuál son los medios más adecuado para llegar al mismo y , por tanto, el papel que deben jugar las redes sociales en la misma.
+
+### Un esquema clásico
+
+El esquema de arriba muestra un ejemplo de campaña online clásica de una ONG, cuyo objetivos están centrados en conseguir donaciones y voluntarios. En una campaña de este tipo la centralidad está ocupada por la web, y sus mecanismos para conseguir suscripciones que profundicen la relación con la organización, relegando a las redes sociales a una de las medio a través de los que conseguir visitantes.
+
+Dependiendo de la campaña que estemos realizando el papel de las redes sociales puede ser muy diferentes, y actualmente muchas campañas tienen su centralidad en ellas, una tendencia lógica dado el inmenso crecimiento en usuarios activos que siguen teniendo, y las nuevas funcionalidades que día a día se les van añadiendo, con el objetivo de poder hacer casi cualquier cosa (desde trasmitir eventos a recibir donaciones) sin salir de ellas.
+
+## El papel de Facebook y Twitter en el universo de las Redes Sociales 
+
+Aunque este taller está centrado en el uso de Facebook y Twitter, es importante conocer el resto de grandes redes sociales existentes actualmente en España, y qué uso podrían tener:
+
+### Facebook, la red de amigos
+¿Quien la usa? 1.550 millones de usuarios activos, 21 en España.  
+¿Cuanto se usa? 4:23 h semanales de uso medio
+¿Para qué podría usarse desde el activismo?  Es la red social con mayor número de usuarios y con más funcionalidades, por lo que tiene infinidad de posibles usos en los que profundizaremos en la sección de Facebook.
+
+### Twitter, la inmediatez
+¿Quien la usa?  320 millones de usuarios activos,  11 en España 
+¿Cuanto se usa?  2:40 semanales de uso medio
+¿Para qué podría usarse desde el activismo? Movimientos como occupy wall street, 15m o las primaveras árabes hicieron que twitter fuese considerado en los inicios de esta decada como un [“vehículo de revoluciones”](http://www.huffingtonpost.es/2016/03/20/twitter-movilizacion-social_n_9496078.html) su simplicidad, ligereza, apertura y arquitectura la hace una herramienta ideal para canilizar momentos. Profundizaremos más en la sección de twitter
+
+### Instagram, la centralidad de la imagen
+¿Quien la usa? 400 millones de usuarios activos, 8 en España,
+¿Cuanto se usa? 32 horas semanales de uso medio
+¿Para qué podría usarse desde el activismo? A pesar de que ya ha superado a twitter en usuarios diarios, todavía poco usada por organizaciones. La centralidad que tienen las imágenes en esta red social obligan a tener bien trabajado este aspecto para tener repercusión. Tienes más información  [aquí](http://www.socialco.es/como-puede-tu-ong-sacar-partido-de-instagram/)
+
+### Snapchap, la red de los millennials 
+¿Quien la usa? 150 millones de usuarios diarios
+¿Cuanto se usa? 30 horas semanales de uso medio
+¿Para qué podría usarse desde el activismo? Esta red ha sido poco usada por el activismo, ya que desde sus inicios su funcionamiento se ha caracterizado más por ser un red de mensajería instantánea que una red social. La progresiva ampliación de características y su amplísima difusión entre la más jóvenes (el 50% tiene menos de 24 años) hace que deba tenerse en cuenta para acciones dirigidas a este público. tienes más información [aquí](http://www.socialco.es/para-que-puede-servir-snapchat-a-tu-ong-e-ideas-para-inspirarte/)
+
+### Pinterest, la red social feminizada
+¿Quien la usa? 150 millones de usuarios activos
+¿Cuanto se usa? 1:49 horas semanales de uso medio
+¿Para qué podría usarse desde el activismo? Esta red tiene un perfil bastante definido: el 80% de sus usuarios son mujeres, y el 80% es mayor de 25 años. La fuerza de esta red reside en su facilidad para compartir, recopilar y organizar imágenes de diversas fuentes, por lo que es de utilidad para campañas visuales para este sector, con el valor añadido de que es un buen generador de tráfico a nuestra web, ya que enlaza a la fuente original de la imagen. Tienes algunas herramientas [aquí]( http://www.afundacion.org/es/socialia/noticia/como_explotar_pinterest_para_tu_ong._15_herramientas_utiles)
+
+### Google +, posicionando nuestros artículos en google
+¿Quien la usa?  540 millones de usuarios 
+¿Cuanto se usa? 1:43 horas semanales de uso medio
+¿Para qué podría usarse desde el activismo? El alto número de usuarios oficiales de esta red está provocado por el hecho de que la cuenta en g+ viene en “de regalo” cuando abres una cuenta en alguno de los populares servicios de google (gmail, youtube...). Su uso real sigue siendo marginal (fuera de algunos sectores profesionales muy concretos), aún así esta red puede ser de gran utilidad para nuestra organización por su capacidad SEO, es decir, de posicionar los artículos que en ella colgamos en el buscador de google.  
+
+### Whatsapp/telegram
+
+Aunque es discutible si es estos servicios de mensajería son técnicamente una red, durante este taller quisimos preguntar a las organizaciones asistentes el uso que le daban:
+
+* Organización “interna”: La mayoría de organizaciones usan estos canales como método de organización o comunicación interna, ya sea con grupos genéricos o grupos específicos para alguna tarea o campaña concreta.
+* Mensajes virales: También es relativamente habitual preparar mensajes específicos para whatsapp con el objetivo de ser viralizados, como versiones modernas del “pásalo”.
+* Canales de telegram como newsletter Hay organizaciones, como [greempeace]( http://www.telegram.me/greenpeace_esp) que han creado su propio canal (público y unidireccional) para enviar noticias.
+* Bots de telegram: A pesar de las ilimitadas posibilidades que abre esta función avanzada de Telegram, todavía no parece muy explotada por el activismo en España.
+
+### Meneame
+
+Meneame es el mayor agregador de noticias de España, con nueve millones de usuarios únicos al mes. Su funcionamiento general es sencillo: cualquier usuario puede enviar una noticia, y el resto de usuarios la votan, siendo las más votadas la “portada” de la web.
+
+Además de esta portada general, existen “subs” temáticos , que cualquier usuario puede crear, que tienen su propia portada especializada.
+
+Dadas estas funciones, parece clara la utilidad que pueden tener meneame para el activismo:
+Dar una gran difusión a noticias o artículos que elaboremos que sean de interés general.
+Encontrar público interesado en temáticas que trabajamos a través de los subs
+En caso de que no exista, siempre podemos plantearnos crear un “sub” sobre la temática que trabajamos, dando una herramienta a su amplia comunidad para encontrar y difundir  información sobre la misma.
+
+Como en el resto de redes sociales que hemos visto, es importante leer con detenimientos las [normas del sitio]( https://meneame.wikispaces.com/Comenzando) antes de empezar a trabajar en el.
+
+### La imaginación al poder
+
+Aunque hemos hecho un repaso de las principales redes sociales con un uso claro por parte del activismo social, cualquier red puede servir como plataforma si conseguimos echarle un poquito de imaginación. Desde [Tinder](http://www.eldiario.es/catalunya/barcelona/Vecinos-Barcelona-ocupan-turistico-Ayuntamiento_0_560994279.html) a [AirBnB](http://verne.elpais.com/verne/2015/05/21/articulo/1432198673_037211.html) 
+
+Fuente: La mayoría de los datos sobre uso de redes sociales están basados en los [estudios de IAB](http://iabspain.es/investigacion/busca-tu-estudio/) 
