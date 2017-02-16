@@ -243,6 +243,7 @@ El papel protagónico que en los últimos años han alcanzado las redes sociales
 
 Es por ello que, antes de lanzarnos a planear una campaña en RRSS, debemos plantear el rol que jugaran las mismas dentro de todo nuestra estrategia comunicativa online.
 
+[![embudo de conversión](embudo.jpg)]
 En la imagen de arriba vemos una versión (adaptada los objetivos clásicos de un colectivo u organización) del llamado [“embudo de conversión”](https://es.wikipedia.org/wiki/Embudo_de_ventas) que suele usarse en marketing online. 
 
 Dependiendo de los objetivos de nuestra campaña, seleccionaremos cual es el público en el que debemos centrarnos, lo que determinará cuál son los medios más adecuado para llegar al mismo y , por tanto, el papel que deben jugar las redes sociales en la misma.
