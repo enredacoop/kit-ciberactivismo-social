@@ -393,3 +393,26 @@ Para evitar estas situaciones lo ideal es realizar una trabajo gráfico de nuest
 La solución a esto es la que vemos que realiza Greenpeace en la imagen de arriba: hacer un diseño con “el ancho” adaptado al ordenado, pero con toda la información esencial situada en el centro, para que no se recorte al verla desde el móvil.
 
 [Toda la información sobre formatos de imágenes en facebook](https://www.facebook.com/help/mobile-touch/125379114252045?rdrhc)
+
+### Botones de “llamadas a la acción”
+
+![Botones en la página de OI](boton.jpg)
+
+Una práctica útil de personalización es  la de poner botones de “llamada a la acción” en nuestra página. Estos botones aparecen justo debajo de la cabecera y pueden enlazar a diferentes funciones como llamar, enviar un mensaje o enlazar a una web, como el ejemplo de la imagen de la página de Oxfam Intermón, donde el botón “hacer una donación” nos lleva al apartado de donaciones de su web.
+[Toda la información sobre como añadir estos botones](https://www.facebook.com/business/help/312169205649942)
+
+### Pestañas
+
+Una práctica todavía no muy extendida es la de personalizar el orden en el que aparecen las diferentes  “pestañas” de nuestra página. Estas pestañas no son otra cosa que los diferentes “bloques” de elementos que conforman nuestra página (publicaciones, fotos, videos, eventos, notas, me gustas...)
+
+Facebook tiene algunos plantillas para organizar estos elementos, aunque también permite ordenarlas manualmente, lo cual es de gran utilidad, ya que la mayoría de plantillas predefinidas destacan en la cabecera elementos (como videos o eventos) que la mayoría de organizaciones no suelen actualizar con demasiada asiduidad.
+
+Como puedes ver en este pequeño video, las pestañas se organizan en Configuración> Editar página. [Aquí lo explican detalladamente](https://www.facebook.com/help/371634529571035/?helpref=hc_fnav)
+
+<iframe width="1280" height="800" src="https://www.useloom.com/embed/5c9bf180f49f11e6a00f45a13719121e" frameborder="0" allowfullscreen></iframe>
+
+### Destacar publicaciones
+
+![Destacar publicaciones](destacar.jpg)
+
+Esta función permite fijar en la parte superior de nuestra página una publicación concreta que queramos destacar. La publicación permanecerá fijada hasta que decidamos destacar otra o la quitemos de allí. Para hacer esto solo que abrir el menú de cualquier publicación y pulsar sobre el botón “ fijar en la parte superior de la página” (como en la imagen).
