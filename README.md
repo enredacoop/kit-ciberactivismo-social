@@ -320,3 +320,76 @@ Como en el resto de redes sociales que hemos visto, es importante leer con deten
 Aunque hemos hecho un repaso de las principales redes sociales con un uso claro por parte del activismo social, cualquier red puede servir como plataforma si conseguimos echarle un poquito de imaginación. Desde [Tinder](http://www.eldiario.es/catalunya/barcelona/Vecinos-Barcelona-ocupan-turistico-Ayuntamiento_0_560994279.html) a [AirBnB](http://verne.elpais.com/verne/2015/05/21/articulo/1432198673_037211.html) 
 
 Fuente: La mayoría de los datos sobre uso de redes sociales están basados en los [estudios de IAB](http://iabspain.es/investigacion/busca-tu-estudio/) 
+
+# Usar Facebook en nuestra estrategia comunicativa
+
+## Conceptos básicos
+
+Empezamos repasando algunos conceptos básicos sobre esta red:
+
+### Cuenta
+
+Las personas usan facebook creando una “cuenta”. Esta cuenta debe tener el nombre real de la persona que se registra (aunque facebook todavía es bastante flexible en este aspecto).  
+
+Es importante resaltar que solo las personas pueden abrir una cuenta: los colectivos, asociaciones, empresas etc deben abrir una página. Aunque en sus inicios Facebook era flexible con está política, desde hace unos años tiene poca permisividad, por lo que es imprescindible que si tu colectivo todavía usa facebook como “cuenta” convertirlo en una página, a riesgo de que esta sea eliminada. En la ayuda de Facebook te explican [como hacerlo](https://www.facebook.com/help/175644189234902?helpref=page_content)
+
+[+info sobre ceuntas en facebook](https://www.facebook.com/help/112146705538576?helpref=faq_content)
+
+### Página
+
+Las páginas son la forma desde que las organizaciones y “celebridades” (ya que las cuentas tienen un límite de 5.000 amigos) gestionan su presencia en facebook. Cualquier persona puede crear una página desde su cuenta. [Como crear una página](https://www.facebook.com/help/104002523024878?helpref=popular_topics&ref=popular)
+
+Para seguir a la actividad de una  página, no tiene que  “hacerte amigo” sino indicar que “te gusta”, este hecho limita información que proporcionas a los gestores de las páginas que sigues.
+
+Una página tiene muchas más ventajas que una cuenta, ya que mejora las formas de publicación, de personalización y da acceso a  multitud de estadísticas sobre tus acciones en Facebook. Profundizaremos en estos aspectos en la sección “gestionar una página”.
+
+### Grupo
+
+Los grupos ofrecen un espacio para intercambiar opiniones acerca de intereses comunes con determinadas personas. Existen multitud de tipos de grupos, empezando por la privacidad de con la que se configure: 
+
+* *Abierto:* Cualquiera puede  unirse. Los miembros  y el contenido del grupo pueden ser vistos por cualquier persona e incluso  ser indexada por buscadores externos como google.
+
+* *Privado*: Cualquiera puede encontrar el grupo y ver quienes son sus miembros, pero no las publicaciones, que sólo están accesibles para los miembros del grupo. Para poder entrar tenemos que hacer una solicitud, que debe ser aprobada por los administradores. 
+
+* *Secreto:* El grupo sólo es accesible a través de una invitación de uno de sus miembros.
+
+Las funciones que se le pueden dar a los grupos desde el activismo son muy variadas, desde crear un pequeño grupo secreto entre los miembros de nuestra organización, a usar los grupos públicos como forma de difusión. En este sentido, cabe destacar que existen grandes grupos con decenas de miles de miembros sobre todo tipo temáticas, por lo que es interesante hacer un “mapeo” de los grupos que existen sobre las temas que trabajamos antes de iniciar una campaña, y ver el papel que pueden jugar en la misma.
+
+[+info sobre grupos](https://www.facebook.com/help/1629740080681586/?helpref=hc_fnav)
+
+
+## Gestionar una página
+
+Como hemos visto la página es nuestra la herramienta básica para las organizaciones, veamos las principales herramientas para su gestión:
+
+### Roles y permisos
+
+Las páginas se gestionan desde cuentas personales. El creador de una página puede otorgar a otros usuarios diferentes tipos de permisos para gestionar la página. Veamos los más interesantes para páginas de movimientos sociales:
+
+![Tipo de roles en Facebook](roles.jpg)
+
+* *Administrador*: Es el único que puede otorgar y quitar permisos de gestión de la página. Es preferible que este rol no sea otorgado a un gran número de personas, ya que sus funciones únicas se usan muy pocas veces, y además así se limita los famosos problemas de [“robo de páginas”](http://www.elmundo.es/elmundo/2012/04/23/madrid/1335191371.html) en caso de disputas internas.
+* *Editor:* Puede realizar publicaciones en nombre de la página, por lo que solo es necesario asignarlo a las personas que vayan a realizar esta función
+* *Moderador*: En página con gran repercusión puede ser útil crear la figura del moderador, para ayudar a limpiar la página de comentarios inapropiados y contestar mensajes
+* *Colaborador en vivo:* La nueva función recientemente añadida a Facebook para poder emitir vídeos en streaming ha venido acompañada de este nuevo rol, que únicamente permite realizar esta tarea. Puede ser útil para  nombrar “corresponsales” en algún evento concreto. 
+
+
+## Personalización
+
+### Perfil y cabecera
+
+Los principales elementos de identidad visual de nuestra organización le Facebook se hace a través de las fotos de perfil y cabecera. Veamos los principales problemas que encontramos.
+
+![Malas prácticas en fotos de perfil de Facebook](perfil.jpg)
+
+*Perfil:* La foto de perfil es pequeña y cuadrada (170 x 170 px), eso supone un problema para muchas organizaciones cuya imagen corporativa no se adapta bien a este formato, por ser rectangulares o contener demasiados elementos para un tamaño tan pequeño. Es habitual encontrar “soluciones” como las de la imagen, tratando de encajar una imagen rectangular en un espacio cuadrado a base de reducirla o cortarla. 
+
+Para evitar estas situaciones lo ideal es realizar una trabajo gráfico de nuestra organización para dotándolo de [isotipos o imagotipos](http://www.brandemia.org/hablemos-con-propiedad-logotipo-isotipo-imagotipo-isologo-imagen-corporativa-identidad) que puedan adaptarse a estos formatos.
+
+![Buena práctica en cabecera de facebook](cabecera.jpg)
+
+*Cabecera:* El principal problema que nos encontramos en el diseño de las cabeceras es que su tamaño “cambia” según visitemos la página desde un ordenador (donde se muestra con un ancho de 820 px) o desde el móvil (donde se recortan los laterales de la imagen dejándola en 640 px). 
+
+La solución a esto es la que vemos que realiza Greenpeace en la imagen de arriba: hacer un diseño con “el ancho” adaptado al ordenado, pero con toda la información esencial situada en el centro, para que no se recorte al verla desde el móvil.
+
+[Toda la información sobre formatos de imágenes en facebook](https://www.facebook.com/help/mobile-touch/125379114252045?rdrhc)
