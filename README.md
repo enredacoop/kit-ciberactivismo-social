@@ -252,6 +252,9 @@ Dependiendo de los objetivos de nuestra campaña, seleccionaremos cual es el pú
 
 ### Un esquema clásico
 
+![esquema de campaña online](esquema.jpg)
+
+
 El esquema de arriba muestra un ejemplo de campaña online clásica de una ONG, cuyo objetivos están centrados en conseguir donaciones y voluntarios. En una campaña de este tipo la centralidad está ocupada por la web, y sus mecanismos para conseguir suscripciones que profundicen la relación con la organización, relegando a las redes sociales a una de las medio a través de los que conseguir visitantes.
 
 Dependiendo de la campaña que estemos realizando el papel de las redes sociales puede ser muy diferentes, y actualmente muchas campañas tienen su centralidad en ellas, una tendencia lógica dado el inmenso crecimiento en usuarios activos que siguen teniendo, y las nuevas funcionalidades que día a día se les van añadiendo, con el objetivo de poder hacer casi cualquier cosa (desde trasmitir eventos a recibir donaciones) sin salir de ellas.
