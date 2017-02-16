@@ -333,7 +333,7 @@ Las personas usan facebook creando una “cuenta”. Esta cuenta debe tener el n
 
 Es importante resaltar que solo las personas pueden abrir una cuenta: los colectivos, asociaciones, empresas etc deben abrir una página. Aunque en sus inicios Facebook era flexible con está política, desde hace unos años tiene poca permisividad, por lo que es imprescindible que si tu colectivo todavía usa facebook como “cuenta” convertirlo en una página, a riesgo de que esta sea eliminada. En la ayuda de Facebook te explican [como hacerlo](https://www.facebook.com/help/175644189234902?helpref=page_content)
 
-[+info sobre ceuntas en facebook](https://www.facebook.com/help/112146705538576?helpref=faq_content)
+[+info sobre cuentas en facebook](https://www.facebook.com/help/112146705538576?helpref=faq_content)
 
 ### Página
 
