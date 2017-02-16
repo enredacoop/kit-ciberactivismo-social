@@ -69,6 +69,7 @@ Las Alertas de Google es un servicio de supervisión de los contenidos, que ofre
 
 * intitle: limita las busquedas de las palabras al titulo de la página > site:eldiario.es OR site:publico.es intitle:tercer sector
 
+Tienes todos los comandos en las [páginas de ayuda de Google](https://support.google.com/websearch/answer/2466433?hl=es)
 
 # Como construir infografías
 
