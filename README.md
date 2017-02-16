@@ -235,7 +235,7 @@ Son relativamente fáciles de integrar en una web con independencia de su format
 
 El código embebido siempre se encuentra en formato HTML (lenguaje básico de la Web). La mayoría de los sistemas de gestión de contenidos o de blogs (Drupal, Wordpress, Mezzanine, etc.) nos permiten integrar dicho código embebido como parte de la página que estemos editando por lo que copiando el código embebido y pegándolo en el cuerpo de pagina se tendría el trabajo finalizado.
 
-# Ciberactivismo con FAcebook y Twitter
+# Ciberactivismo con Facebook y Twitter
 
 ## El papel de las redes sociales en nuestra estrategia comunicativa online
 
@@ -258,34 +258,34 @@ Dependiendo de la campaña que estemos realizando el papel de las redes sociales
 Aunque este taller está centrado en el uso de Facebook y Twitter, es importante conocer el resto de grandes redes sociales existentes actualmente en España, y qué uso podrían tener:
 
 ### Facebook, la red de amigos
-¿Quien la usa? 1.550 millones de usuarios activos, 21 en España.  
-¿Cuanto se usa? 4:23 h semanales de uso medio
-¿Para qué podría usarse desde el activismo?  Es la red social con mayor número de usuarios y con más funcionalidades, por lo que tiene infinidad de posibles usos en los que profundizaremos en la sección de Facebook.
+* ¿Quien la usa? 1.550 millones de usuarios activos, 21 en España.  
+* ¿Cuanto se usa? 4:23 h semanales de uso medio
+* ¿Para qué podría usarse desde el activismo?  Es la red social con mayor número de usuarios y con más funcionalidades, por lo que tiene infinidad de posibles usos en los que profundizaremos en la sección de Facebook.
 
 ### Twitter, la inmediatez
-¿Quien la usa?  320 millones de usuarios activos,  11 en España 
-¿Cuanto se usa?  2:40 semanales de uso medio
-¿Para qué podría usarse desde el activismo? Movimientos como occupy wall street, 15m o las primaveras árabes hicieron que twitter fuese considerado en los inicios de esta decada como un [“vehículo de revoluciones”](http://www.huffingtonpost.es/2016/03/20/twitter-movilizacion-social_n_9496078.html) su simplicidad, ligereza, apertura y arquitectura la hace una herramienta ideal para canilizar momentos. Profundizaremos más en la sección de twitter
+* ¿Quien la usa?  320 millones de usuarios activos,  11 en España 
+* ¿Cuanto se usa?  2:40 semanales de uso medio
+* ¿Para qué podría usarse desde el activismo? Movimientos como occupy wall street, 15m o las primaveras árabes hicieron que twitter fuese considerado en los inicios de esta decada como un [“vehículo de revoluciones”](http://www.huffingtonpost.es/2016/03/20/twitter-movilizacion-social_n_9496078.html) su simplicidad, ligereza, apertura y arquitectura la hace una herramienta ideal para canilizar momentos. Profundizaremos más en la sección de twitter
 
 ### Instagram, la centralidad de la imagen
-¿Quien la usa? 400 millones de usuarios activos, 8 en España,
-¿Cuanto se usa? 32 horas semanales de uso medio
-¿Para qué podría usarse desde el activismo? A pesar de que ya ha superado a twitter en usuarios diarios, todavía poco usada por organizaciones. La centralidad que tienen las imágenes en esta red social obligan a tener bien trabajado este aspecto para tener repercusión. Tienes más información  [aquí](http://www.socialco.es/como-puede-tu-ong-sacar-partido-de-instagram/)
+* ¿Quien la usa? 400 millones de usuarios activos, 8 en España,
+* ¿Cuanto se usa? 32 horas semanales de uso medio
+* ¿Para qué podría usarse desde el activismo? A pesar de que ya ha superado a twitter en usuarios diarios, todavía poco usada por organizaciones. La centralidad que tienen las imágenes en esta red social obligan a tener bien trabajado este aspecto para tener repercusión. Tienes más información  [aquí](http://www.socialco.es/como-puede-tu-ong-sacar-partido-de-instagram/)
 
 ### Snapchap, la red de los millennials 
-¿Quien la usa? 150 millones de usuarios diarios
-¿Cuanto se usa? 30 horas semanales de uso medio
-¿Para qué podría usarse desde el activismo? Esta red ha sido poco usada por el activismo, ya que desde sus inicios su funcionamiento se ha caracterizado más por ser un red de mensajería instantánea que una red social. La progresiva ampliación de características y su amplísima difusión entre la más jóvenes (el 50% tiene menos de 24 años) hace que deba tenerse en cuenta para acciones dirigidas a este público. tienes más información [aquí](http://www.socialco.es/para-que-puede-servir-snapchat-a-tu-ong-e-ideas-para-inspirarte/)
+* ¿Quien la usa? 150 millones de usuarios diarios
+* ¿Cuanto se usa? 30 horas semanales de uso medio
+* ¿Para qué podría usarse desde el activismo? Esta red ha sido poco usada por el activismo, ya que desde sus inicios su funcionamiento se ha caracterizado más por ser un red de mensajería instantánea que una red social. La progresiva ampliación de características y su amplísima difusión entre la más jóvenes (el 50% tiene menos de 24 años) hace que deba tenerse en cuenta para acciones dirigidas a este público. tienes más información [aquí](http://www.socialco.es/para-que-puede-servir-snapchat-a-tu-ong-e-ideas-para-inspirarte/)
 
 ### Pinterest, la red social feminizada
-¿Quien la usa? 150 millones de usuarios activos
-¿Cuanto se usa? 1:49 horas semanales de uso medio
-¿Para qué podría usarse desde el activismo? Esta red tiene un perfil bastante definido: el 80% de sus usuarios son mujeres, y el 80% es mayor de 25 años. La fuerza de esta red reside en su facilidad para compartir, recopilar y organizar imágenes de diversas fuentes, por lo que es de utilidad para campañas visuales para este sector, con el valor añadido de que es un buen generador de tráfico a nuestra web, ya que enlaza a la fuente original de la imagen. Tienes algunas herramientas [aquí]( http://www.afundacion.org/es/socialia/noticia/como_explotar_pinterest_para_tu_ong._15_herramientas_utiles)
+* ¿Quien la usa? 150 millones de usuarios activos
+* ¿Cuanto se usa? 1:49 horas semanales de uso medio
+* ¿Para qué podría usarse desde el activismo? Esta red tiene un perfil bastante definido: el 80% de sus usuarios son mujeres, y el 80% es mayor de 25 años. La fuerza de esta red reside en su facilidad para compartir, recopilar y organizar imágenes de diversas fuentes, por lo que es de utilidad para campañas visuales para este sector, con el valor añadido de que es un buen generador de tráfico a nuestra web, ya que enlaza a la fuente original de la imagen. Tienes algunas herramientas [aquí]( http://www.afundacion.org/es/socialia/noticia/como_explotar_pinterest_para_tu_ong._15_herramientas_utiles)
 
 ### Google +, posicionando nuestros artículos en google
-¿Quien la usa?  540 millones de usuarios 
-¿Cuanto se usa? 1:43 horas semanales de uso medio
-¿Para qué podría usarse desde el activismo? El alto número de usuarios oficiales de esta red está provocado por el hecho de que la cuenta en g+ viene en “de regalo” cuando abres una cuenta en alguno de los populares servicios de google (gmail, youtube...). Su uso real sigue siendo marginal (fuera de algunos sectores profesionales muy concretos), aún así esta red puede ser de gran utilidad para nuestra organización por su capacidad SEO, es decir, de posicionar los artículos que en ella colgamos en el buscador de google.  
+* ¿Quien la usa?  540 millones de usuarios 
+* ¿Cuanto se usa? 1:43 horas semanales de uso medio
+* ¿Para qué podría usarse desde el activismo? El alto número de usuarios oficiales de esta red está provocado por el hecho de que la cuenta en g+ viene en “de regalo” cuando abres una cuenta en alguno de los populares servicios de google (gmail, youtube...). Su uso real sigue siendo marginal (fuera de algunos sectores profesionales muy concretos), aún así esta red puede ser de gran utilidad para nuestra organización por su capacidad SEO, es decir, de posicionar los artículos que en ella colgamos en el buscador de google.  
 
 ### Whatsapp/telegram
 
