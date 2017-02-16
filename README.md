@@ -382,13 +382,13 @@ Los principales elementos de identidad visual de nuestra organización le Facebo
 
 ![Malas prácticas en fotos de perfil de Facebook](perfil.jpg)
 
-*Perfil:* La foto de perfil es pequeña y cuadrada (170 x 170 px), eso supone un problema para muchas organizaciones cuya imagen corporativa no se adapta bien a este formato, por ser rectangulares o contener demasiados elementos para un tamaño tan pequeño. Es habitual encontrar “soluciones” como las de la imagen, tratando de encajar una imagen rectangular en un espacio cuadrado a base de reducirla o cortarla. 
+**Perfil:** La foto de perfil es pequeña y cuadrada (170 x 170 px), eso supone un problema para muchas organizaciones cuya imagen corporativa no se adapta bien a este formato, por ser rectangulares o contener demasiados elementos para un tamaño tan pequeño. Es habitual encontrar “soluciones” como las de la imagen, tratando de encajar una imagen rectangular en un espacio cuadrado a base de reducirla o cortarla. 
 
 Para evitar estas situaciones lo ideal es realizar una trabajo gráfico de nuestra organización para dotándolo de [isotipos o imagotipos](http://www.brandemia.org/hablemos-con-propiedad-logotipo-isotipo-imagotipo-isologo-imagen-corporativa-identidad) que puedan adaptarse a estos formatos.
 
 ![Buena práctica en cabecera de facebook](cabecera.jpg)
 
-*Cabecera:* El principal problema que nos encontramos en el diseño de las cabeceras es que su tamaño “cambia” según visitemos la página desde un ordenador (donde se muestra con un ancho de 820 px) o desde el móvil (donde se recortan los laterales de la imagen dejándola en 640 px). 
+**Cabecera:** El principal problema que nos encontramos en el diseño de las cabeceras es que su tamaño “cambia” según visitemos la página desde un ordenador (donde se muestra con un ancho de 820 px) o desde el móvil (donde se recortan los laterales de la imagen dejándola en 640 px). 
 
 La solución a esto es la que vemos que realiza Greenpeace en la imagen de arriba: hacer un diseño con “el ancho” adaptado al ordenado, pero con toda la información esencial situada en el centro, para que no se recorte al verla desde el móvil.
 
