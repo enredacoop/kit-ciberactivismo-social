@@ -20,6 +20,8 @@ Proyecto formativo titulado **ACTIVISMO DIGITAL. Cómo mejorar el impacto de las
 * [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Tcnicas-de-recoleccin-de-informacin)
 * [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas) 
 * [Ciberactivismo con Facebook y Twitter](https://enredacoop.github.io/kit-ciberactivismo-social#ciberactivismo-con-facebook-y-twitter) 
+* [Organizando una campaña con en las redes sociales](https://enredacoop.github.io/kit-ciberactivismo-social#organizando-una-campaña-en-las-redes-sociales) 
+* [Bibliografía](https://enredacoop.github.io/kit-ciberactivismo-social#bibliografía) 
 
 # Técnicas de recolección de información
 
@@ -601,7 +603,7 @@ Su uso es bastante intuitivo, y la función que suele desarrollar en Twitter es 
 
 Pero IFTT permite otro tipo de automatizaciones interesantes en twitter, como por ejemplo publicar automáticamente nuevas noticias de una web determinada: “si está web publica una nueva noticia, tuiteala con este mensaje, o incluso “Si este medio de comunicación publica alguna noticia en cuyo título esté esta palabra, tuiteala”.
 
-### Analitica 
+### Analítica 
 
 Twitter ofrece también una analitica bastante completa de nuestra actividad en twitter. Las estadísticas de  una cuenta pueden consultarse accediendo a https://analytics.twitter.com/
 
@@ -624,7 +626,7 @@ Twitter ofrece también una analitica bastante completa de nuestra actividad en 
 * Construye las herramientas adecuadas
 * Planifica tu campaña
 * Reparte tareas
-* Actua
+* Actúa
 * Evalúa los resultados
 
 ### Los pads como herramienta de coordinación
@@ -640,7 +642,7 @@ Para desarrollar las prácticas en grupo usamos como herramienta de coordinació
 
 ### Prácticas en grupo
 
-Como final del taller se hizo una práctica, dividiendo a los asistentes en tres grupos. estos fueron los resultados
+Como final del taller se hizo una práctica, dividiendo a los asistentes en tres grupos. Estos fueron los resultados
 
 * [La pobreza perjudica seriamente la -tu- salud.](https://titanpad.com/DatacticAND3)
 
