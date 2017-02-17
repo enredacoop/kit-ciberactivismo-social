@@ -245,6 +245,7 @@ El papel protagónico que en los últimos años han alcanzado las redes sociales
 Es por ello que, antes de lanzarnos a planear una campaña en RRSS, debemos plantear el rol que jugaran las mismas dentro de todo nuestra estrategia comunicativa online.
 
 ![embudo de conversión](embudo.jpg)
+(Fuente de la imagen [Wingu](http://www.winguweb.org/sitio2012/wp-content/uploads/2014/05/ComunicacionOnlineentuONG.pdf)
 
 
 En la imagen de arriba vemos una versión (adaptada los objetivos clásicos de un colectivo u organización) del llamado [“embudo de conversión”](https://es.wikipedia.org/wiki/Embudo_de_ventas) que suele usarse en marketing online. 
@@ -254,6 +255,7 @@ Dependiendo de los objetivos de nuestra campaña, seleccionaremos cual es el pú
 ### Un esquema clásico
 
 ![esquema de campaña online](esquema.jpg)
+(Fuente de la imagen [Wingu](http://www.winguweb.org/sitio2012/wp-content/uploads/2014/05/ComunicacionOnlineentuONG.pdf)
 
 
 El esquema de arriba muestra un ejemplo de campaña online clásica de una ONG, cuyo objetivos están centrados en conseguir donaciones y voluntarios. En una campaña de este tipo la centralidad está ocupada por la web, y sus mecanismos para conseguir suscripciones que profundicen la relación con la organización, relegando a las redes sociales a una de las medio a través de los que conseguir visitantes.
@@ -477,5 +479,188 @@ Una de las grandes ventajas de las páginas es que  facebook nos proporciona un 
 * Cuántos de nuestros seguidores están conectados a cada una de las horas del día (y diferenciando según día de la semana). Estos datos nos ayudarán a decidir cuales son las mejores horas y días para publicar.
 * El alcance que ha obtenido cada una de nuestras publicaciones, diferenciando qué número de ellos son seguidores y cuáles no. Además nos indica el número y tipo de reacciones (clicks, me gustas, comentarios) que ha provocado
 * Los datos sociodemográficos (sexo, edad y ciudad) de nuestros seguidores o de las personas a la que han alcanzado nuestras publicaciones.
+
+## Usar Twitter en nuestra estrategia comunicativa
+
+### Conceptos básicos
+
+#### Perfil
+
+A diferencia de lo que veíamos en Facebook, en Twitter las no existen diferencia entre personas y organizaciones: todos tenemos un “simple” perfil, que (salvo contadas excepciones) es público a cualquier internauta (aunque no esté registrado en twitter) 
+a través de la URL www.twitter.com/nombredeusuario.
+
+Los perfiles tienen pocas opciones de personalización: en todos podemos encontrar   nombre, foto de perfil, cabecera, una breve biografía , número de tuits, número de seguidores y cuentas a las que sigue el usuario, listas y una timeline que recoge todos los tuits publicados por el usuario por manera cronológica.
+
+Para añadir imágenes de perfil y cabecera, igual que veíamos en facebook, es imprescindible saber las medidas de cada una. Tienes toda la información [aquí](https://support.twitter.com/articles/166743)
+
+#### Tuit
+
+Es la única forma que ha tenido siempre twitter para publicar (aunque en el apartado de “nuevas funcionalidades de twitter” veremos algunas novedades). Se trata un simple mensaje de 140 caracteres en los que se puede añadir un enlace o imágenes.
+
+#### Hashtag (HT)
+
+Un hashtag es una etiqueta que se añade a cualquier tuit. Para hacerlo basta con añadir el símbolo # al principio de una palabra o frase (sin espacios ni puntos). Al hacer esto la palabra se convierte en un enlace, que al pulsarlo nos lleva a todos los tuits que hayan usado el mismo HT.
+
+Esta simplísima herramienta es una de las grandes armas de twitter, ya que permite encontrar a “todas las personas del mundo” que están hablando sobre un tema concreto, y unirte a la conversación.
+
+Durante el taller hicimos un pequeño recorrido sobre los diferente usos que se le dan al HT desde las organizaciones participantes. Estas fueron las respuestas:
+
+* Etiquetar los tuits sobre determinada temática para que puedan encontrarlo las personas que buscan información sobre ella, dándole así más repercusión #Ciberacivismo #Transparencia #Pobreza
+* “Transmitir” un evento determinado facilitando tanto dar información sobre el mismo, como permitir las intervenciones de personas que no han asistido: por ejemplo para este taller usamos  el HT #DaTacticAND
+* Nominar campañas, una tendencia creciente es usar como nombre o slogan de determinadas campañas directamente con un HT, facilitando así las sinergias online-offline #StopDesahucios #WelcomeRefugees #PaguenLoJusto #VíasLegalesYA
+* Agrupar tuits para demostrar fuerza, y así aparecer entre los temas más comentados del momento en twitter (TT)
+* Reforzar palabras, aprovechan que los HT aparecen en un color diferente al resto del mensaje es habitual usarlo con el único objetivo de dar más fuerza a determinadas palabras o frases #Basta #Nunca #LoHaremos
+* Como “dialecto” tuitero: el limitado espacio que ofrece twitter, unido a la necesidad de crear herramientas lingüísticas de cercanía para hablar entre desconocidos, ha creado diversas variaciones lingüísticas exclusivas de esta red basada en gran parte en el uso de HT concretos (#EsBien #MatameCamión) sobre la que ya existen [estudios lingüísticos](https://www.academia.edu/10138878/HOLI_EN_TUITER_HABLAMOS_RARO_UN_BESI_La_variaci%C3%B3n_ling%C3%BC%C3%ADstica_en_Twitter) 
+
+#### Trending Topic (TT)
+
+Los TT son los temas (palabras, o HT) más comentados en twitter en un determinado momento. Los temas son destacados en un espacio propio de la web y es habitual que los medios de comunicación se hagan eco de los temas que han hecho “arder twitter”.
+
+El algoritmo que usa twitter para determinar qué temas alcanzan llegan a TT no se conoce en su totalidad, aunque si son de sobra conocido sus aspectos más relevantes:
+* Es importante señalar que los TT´s no son las palabras más usadas, sino las que han experimentado un mayor aumento en su uso durante un determinado periodo de tiempo. Por tanto una palabra muy usada (por ejemplo Madrid) necesitará ser usada infinidad de veces más para llegar a ser TT que una que no se haya usado nunca (por ejemplo #Vamos28F). Este es el motivo por el que cuando se planea alcanzar un TT, se pone una hora de inicio,asegurando que nadie la use anteriormente y que de repente se use de manera explosiva.
+* No solo es importante el número de tuits, también se contabilizan los Retuits 
+* El número de seguidores que tienen las cuentas que usan la palabra también tiene una influencia decisiva.
+
+#### Mensaje directo (MD)
+
+Los mensajes directos son la forma con la que establecer un contacto privado entre usuarios. Su funcionamiento es similar a un chat, en el que también se pueden crear pequeños grupos.
+
+Los usos más habituales en movimientos sociales son:
+* Como forma de organización de los tuiteros de la organización (este es el único uso que le daban las organizaciones asistentes al taller). Se crea un grupo con los miembros de confianza y desde allí se coordina su actividad
+* Para recibir mensajes y preguntas de personas interesadas. Aunque la configuración estándar limita la recepción de MD a personas a las que sigues, es posible reconfigurarla para aceptar MD de cualquier usuario de Twitter. Las cuentas que tiene esta configuración aparecen destacadas en el buscador con la etiqueta “proporciona asistencia”, pudiéndose configurar también un horario de asistencia (que aparecerá en tu perfil)
+* Para enviar mensajes masivos a tus seguidores: Dado a fugacidad que tienen los tuits, es posible que, en ocasiones, queramos dar una difusión masiva a una determinado mensaje enviándolo a todos nuestros seguidores. Esto puede hacerse de manera manual, aunque habitualmente se usan herramientas externas que automatizan esta tediosa tarea, como por ejemplo http://botize.com/
+
+#### Me gusta
+
+Al igual que en FB, en twitter también es posible dar a “me gusta” a los mensajes de otros usuarios. Esta acción puede usarse de forma literal (para marcar que te gusta un comentario), aunque también es usada habitual como forma de “guardas” determinados tuits, ya que todos tus “me gustas” se guardan (y son públicos). Esta segunda función se ha potenciado con la aparición de la funcionalidad “momentos”, que veremos en el siguiente apartado 
+
+#### Mención
+
+La mención es la forma de nombrar a cualquier usuario (lo estemos siguiendo o no). Para hacerlo basta con escribir su nombre con la @ delante: @OxfamIntermon. Cuando te nombran en twitter, te llega una notificación.  
+
+Esta funcionalidad suele usarse para responder a un usuario y/o conversar con él (a través del botón reply). Aunque hay que advertir que haciendo este uso (que hace aparecer el nombre del usuario al principio del tuit de respuesta), provoca que el hilo de la conversación solo le aparezca a las personas que siguen ambas cuentas. Es por ello que es habitual añadir un punto (“.”) al comienzo de tuit, haciendo así que se visible para todos tus seguidores.
+
+### Gestionar una cuenta colectiva
+
+#### Gestionar permisos (Tweetdeck)
+
+Uno de los problemas de gestionar una cuenta colectiva de Twitter, es que no se pueden asignar permisos y roles de gestión de forma directa (del modo que veíamos en Facebook), lo que obligaría a compartir la contraseña de nuestra cuenta con todas las personas que quieran colaborar en ella, con los consiguientes problemas de seguridad.
+Para solucionar este problema existe una herramienta oficial de twitter https://tweetdeck.twitter.com/ que permite asignar permisos de publicación en nuestra cuenta a otras cuentas de twitter, sin necesidad de proporcionar la contraseña.
+
+El gran déficit de Tweetdeck es que todavía no tiene una aplicación oficial para teléfonos móviles, limitando así sus posibilidades de uso.
+
+#### Listas
+
+Esta funcionalidad permite crear grupos personalizados de usuarios a los que queremos hacer un especial seguimiento. Esta funcionalidad es de gran utilidad para cuentas colectivas, ya que permiten “monitorizar” la actividad en twitter de determinadas cuentas y poder actuar sobre ella.
+
+Los usos de estas listas pueden ser muy variados: puede hacer listas de “miembros de mi organización” o “colectivos cercanos” que me ayuden a difundir sus contenidos, o bien listas del tipo “diputados que votaron aquella cosa tan chunga”, para  buscar oportunidades de confrontar en el campo de las ideas. 
+
+#### Destacados
+
+Una de las pocas formas que tenemos de personalizar nuestro timeline de twitter es destacando un tuit concreto. Este tuit destacado aparecerá en la parte superior hasta qeu destaquemos otro (o le quitemos la categoría de destacado)
+
+### Nuevas funcionalidades de twitter
+
+#### Momentos
+
+Momentos ha sido la gran novedad de Twitter en 2017. Es una funcionalidad que permite agrupar diferentes tuits (propios ajenos) y presentarlos con un diseño algo más cuidado de lo que Twitter nos tiene acostumbrados (puedes añadir una portada, un título y una breve descripción).
+
+Para este taller creamos un “momento”  en el que agrupamos algunos de los tuits que se hicieron durante el mismo https://twitter.com/i/moments/827156471259480064
+
+Tienes toda la información sobre cómo crear y configurar los momentos [aquí](https://support.twitter.com/articles/20174549?lang=es)
+
+
+#### Gifs
+
+El botón “gifs” fue una de las principales novedades de twitter e 2016. Se trata un botón que aparece en la caja de publicación y que facilita la navegación por la web http://giphy.com/ para buscar un gif concreto e integrarlo en nuestro tuit.
+
+#### Encuestas
+
+Las encuestas fueron la novedad en Twitter en 2015.  Se trata un botón que aparece en la caja de publicación y que abre un pequeño menú con la que crear una encuesta con las siguientes características: 
+
+* Puedes usar hasta 140 caracteres en la pregunta de la encuesta.
+* La encuesta puede tener hasta cuatro opciones. Puedes usar hasta 25 caracteres para cada opción.
+* La cantidad mínima de tiempo para una encuesta es de cinco minutos y la máxima es de siete días.
+[+ info](https://support.twitter.com/articles/20174534?lang=es)
+
+### Herramientas de automatización
+
+Una práctica cada vez más habitual entre las organizaciones es la de automatizar ciertas funciones de twitter. 
+
+#### Programar tuits con Twitdeck 
+
+La automatización más básica es la “programación” de tuits, de esta manera podemos idear decenas de tuits para una campaña y programar que vayan publicándose durante un periodo determinado.
+
+Esta función puede hacerse directamente desde la palicación oficial de Twitter [Twitdeck ](https://tweetdeck.twitter.com/)
+ 
+#### Automatización avanzada con IFTT
+
+[IFTT](https://ifttt.com/discover) iniciales de If This, Then That (Si ocurre esto, Haz esto otro) es completa herramienta de automatización, no solo para Twitter, sino para prácticamente cualquier servicio de internet. 
+
+Su uso es bastante intuitivo, y la función que suele desarrollar en Twitter es la automatizar publicaciones recurrentes (al estilo Twitdeck), usando recetas del tipo “si es martes y son las 12:00, haz este tuit”. 
+
+Pero IFTT permite otro tipo de automatizaciones interesantes en twitter, como por ejemplo publicar automáticamente nuevas noticias de una web determinada: “si está web publica una nueva noticia, tuiteala con este mensaje, o incluso “Si este medio de comunicación publica alguna noticia en cuyo título esté esta palabra, tuiteala”.
+
+### Analitica 
+
+Twitter ofrece también una analitica bastante completa de nuestra actividad en twitter. Las estadísticas de  una cuenta pueden consultarse accediendo a https://analytics.twitter.com/
+
+* Entre los datos disponibles están:
+* El número de impresiones e interacciones de cada uno de nuestros tuits
+* La evolución de nuestra comunidad
+* Los intereses de nuestros seguidores
+* El sexo y el operador telefónico de nuestros seguidores
+
+## Organizando una campaña en las redes sociales
+
+### Los 11 pasos para desarrollar una campaña
+
+* Elige objetivos
+* Mide fuerzas
+* Busca aliados
+* Prioriza públicos
+* Selecciona los canales
+* Elige tu narrativa (Storytelling)
+* Construye las herramientas adecuadas
+* Planifica tu campaña
+* Reparte tareas
+* Actua
+* Evalúa los resultados
+
+### Los pads como herramienta de coordinación
+
+Para desarrollar las prácticas en grupo usamos como herramienta de coordinación http://titanpad.com , una herramienta para elaborar documentos colaborativos que tiene las siguientes ventajas:
+
+* No hace falta registrarse ni instalar nada para empezar a trabajar. Se crea el documento, se envía el link y cualquiera al que le llegue el enlace puede empezar a editar.
+* Permite la edición de varias personas en tiempo real, diferenciando por colores quien ha realizado cada edición
+* Guarda cada una de las versiones del documento, por lo que si se borra algo por accidente se puede recuperar en cualquier momento.
+* A pesar de ser un documento público en la web, es muy difícil que cualquier “intruso” se cuele en nuestro pad, ya que este no está indexado en buscadores, por lo que tendría que conocer la dirección exacta.
+* Incorpora un chat para que las personas que están editando el documento puedan hablar.
+* Ofrece la opción de importar o exportar varios formatos: Word, ODT, PDF, texto plano, web.
+
+### Prácticas en grupo
+
+Como final del taller se hizo una práctica, dividiendo a los asistentes en tres grupos. estos fueron los resultados
+
+* [La pobreza perjudica seriamente la -tu- salud.](https://titanpad.com/DatacticAND3)
+
+* [Conseguir una Sevilla más verde y más fresca](https://titanpad.com/DatacticAND1)
+
+* [Prevenir la construcción de estereotipos asociados a la población gitana.](https://titanpad.com/DatacticAND2)
+
+## Bibliografía
+
+Además de las diferentes fuentes específicas que hemos ido señalando en cada sección, para la elaboración general de este kit nos ha sido de gran ayuda 
+
+* [Radical community manager](https://nocionescomunes.wordpress.com/2011/10/10/radical-community-manager-breves-nociones-para-aprender-a-comunicarse-organizarse-y-luchar-en-las-redes-2-0/)
+
+* [Tecnopolítica, internet y R- Evoluciones](http://www.icariaeditorial.com/pdf_libros/Tecnopolitica,%20internet%20y%20r-evoluciones.pdf/)
+
+
+* [Manual de comunicación para organizaciones sociales](http://antezanacc.com/docs/Manual_de_comunicacion_para_organizaciones_sociales.pdf)
+
+* [Comunicación Online y Redes Sociales en tu ONG]( http://www.winguweb.org/sitio2012/wp-content/uploads/2014/05/ComunicacionOnlineentuONG.pdf) 
+
+* [Nonprofits on Facebook](https://nonprofits.fb.com/) (en ingles)
 
 
