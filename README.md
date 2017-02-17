@@ -19,6 +19,7 @@ Proyecto formativo titulado **ACTIVISMO DIGITAL. Cómo mejorar el impacto de las
 
 * [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Tcnicas-de-recoleccin-de-informacin)
 * [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas) 
+* [Ciberactivismo con Facebook y Twitter](https://enredacoop.github.io/kit-ciberactivismo-social#ciberactivismo-con-facebook-y-twitter) 
 
 # Técnicas de recolección de información
 
@@ -419,7 +420,7 @@ Esta función permite fijar en la parte superior de nuestra página una publicac
 
 ## Herramientas básicas para comunicar con nuestro público: 
 
-![botones de publicación](boton.jpg)
+![botones de publicación](publicar.jpg)
 
 En la imagen de arriba vemos facebook ha tratado de mejorar la interfaz de publicación para páginas, destacando las funciones que no existen en las publicaciones de las cuentas. 
 Veamos las herramientas básicas que ofrece
@@ -431,7 +432,8 @@ Empezamos por esta simple función de “colgar” en facebook publicaciones de 
 Hay que destacar que cuando colgamos un enlace desde nuestra página tenemos acceso a opciones que no existen en las cuentas personales:
 Editar el titular, el texto o la url de la previsualización
 Añadir una foto (o un video) diferente a la previsualización
-Crear un pequeño “carrusel” añadiendo diferente fotos a la publicación
+Crear un pequeño “carrusel” añadiendo diferente fotos a la publicación.
+
 
 [+ info](https://www.facebook.com/help/www/668969529866328?helpref=search
 )
@@ -447,8 +449,8 @@ Los eventos además tiene otras ventajas, como pueden ser el recordatorio autom�
 ### Vídeos/fotos 
 
 Las posibilidades que tenemos al subir videos o fotos desde un página aumentan. Veamos algunas de ellas:
-Crear videos automáticamente con nuestras fotos: Una de las opciones que nos da el botón “compartir una foto o video” es la de “crear una presentación”, se trata de un pequeño video que crea facebook  simplemente dándole de 3 a 10 fotos.
-Canvas: Es una publicación optimizada para teléfonos móviles, donde se muestra a pantalla completa, que puede combinar fotos, textos, enlaces y videos, y permite al usuario “navegar” dentro de ella. [+ info](https://www.facebook.com/business/help/www/183469315334462)
+* **Crear videos automáticamente con nuestras fotos:** Una de las opciones que nos da el botón “compartir una foto o video” es la de “crear una presentación”, se trata de un pequeño video que crea facebook  simplemente dándole de 3 a 10 fotos.
+* **Canvas:** Es una publicación optimizada para teléfonos móviles, donde se muestra a pantalla completa, que puede combinar fotos, textos, enlaces y videos, y permite al usuario “navegar” dentro de ella. [+ info](https://www.facebook.com/business/help/www/183469315334462)
 
 ### Video en directo
 
