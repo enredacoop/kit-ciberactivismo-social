@@ -416,3 +416,64 @@ Como puedes ver en este pequeño video, las pestañas se organizan en Configurac
 ![Destacar publicaciones](destacar.jpg)
 
 Esta función permite fijar en la parte superior de nuestra página una publicación concreta que queramos destacar. La publicación permanecerá fijada hasta que decidamos destacar otra o la quitemos de allí. Para hacer esto solo que abrir el menú de cualquier publicación y pulsar sobre el botón “ fijar en la parte superior de la página” (como en la imagen).
+
+## Herramientas básicas para comunicar con nuestro público: 
+
+![botones de publicación](boton.jpg)
+
+En la imagen de arriba vemos facebook ha tratado de mejorar la interfaz de publicación para páginas, destacando las funciones que no existen en las publicaciones de las cuentas. 
+Veamos las herramientas básicas que ofrece
+
+### Enlaces
+
+Empezamos por esta simple función de “colgar” en facebook publicaciones de otra web, ya que esta ha sido “ocultada” de los botones de publicación (probablemente por la obsesión de FB de impedir que los usuarios salgan de su red). 
+
+Hay que destacar que cuando colgamos un enlace desde nuestra página tenemos acceso a opciones que no existen en las cuentas personales:
+Editar el titular, el texto o la url de la previsualización
+Añadir una foto (o un video) diferente a la previsualización
+Crear un pequeño “carrusel” añadiendo diferente fotos a la publicación
+
+[+ info](https://www.facebook.com/help/www/668969529866328?helpref=search
+)
+
+### Eventos
+
+Crear un evento es la mejor forma de dar a conocer en facebook los distintos actos que organizamos. La ventaja de crear un evento respecto a simplemente colgar la información en tu página es su potencial “viralización targetizada”: La datos muestran que los eventos son más bastante más compartidos que los “posts”, además esa la forma de compartirlo se hace de manera más targetizada, es decir, se comparte de forma con las personas que realmente podrían estar interesadas en asistir. 
+
+Los eventos además tiene otras ventajas, como pueden ser el recordatorio automático que hace facebook a los asistentes cuando se acerca la hora del mismo; la posibilidad de ir actualizando detalles sobre el mismo; el potencial de creación de comunidad al permitir que los asistentes comenten, cuelguen fotos, o incluso creen grupos con amigos que han asistido al mismo, etc
+[+ info](https://www.facebook.com/help/www/1076296042409786/?helpref=hc_fnav
+)
+
+### Vídeos/fotos 
+
+Las posibilidades que tenemos al subir videos o fotos desde un página aumentan. Veamos algunas de ellas:
+Crear videos automáticamente con nuestras fotos: Una de las opciones que nos da el botón “compartir una foto o video” es la de “crear una presentación”, se trata de un pequeño video que crea facebook  simplemente dándole de 3 a 10 fotos.
+Canvas: Es una publicación optimizada para teléfonos móviles, donde se muestra a pantalla completa, que puede combinar fotos, textos, enlaces y videos, y permite al usuario “navegar” dentro de ella. [+ info](https://www.facebook.com/business/help/www/183469315334462)
+
+### Video en directo
+
+La gran novedad de facebook en 2016 fue el lanzamiento de “FB live”, una herramienta para transmitir en streaming desde los teléfonos móviles. Para hacerlo solo hay que pulsar el botón “transmitir” desde la aplicación de facebook instalada en el teléfono. 
+
+Los videos en directo son promocionados de una forma importante por facebook, ya que cuando se inicia se le envía una notificación a todos los seguidores de la página que estén conectados en ese momento. Por ello es importante preparar cuidadosamente y con antelación estas transmisiones, ya que es frustrante “molestar” a tus seguidores con la notificación de un vídeo en directo, y que cuando entren se corte, sea inaudible, se esté enfocando a otra parte, etc…
+
+Facebook recomienda que la duración de un video en directo sea de al menos cinco minutos, ya que la gente se va incorporando poco a poco. la duración máxima que se permite actualmente es de 90 minutos. 
+
+[+ info](https://www.facebook.com/help/1636872026560015)
+
+### Notas
+
+La función de notas fue totalmente rediseñada a finales de 2015, con el objetivo de facilitar que Facebook pudiera ser usada plataforma de publicación alternativa a los blogs (un poco como el servicio medium pensado para twitter, pero internalizado). 
+
+Las notas ahora presentan una estética muy cuidada (y bastante alejada del resto de lugares de facebook), integran mejor las fotos a modo de cabecera, se destacan aún más del resto de publicaciones y permiten una perfecta integración en otras webs.
+
+[+ info](https://www.facebook.com/help/www/488014787881885)
+
+## Estadísticas 
+
+Una de las grandes ventajas de las páginas es que  facebook nos proporciona un sinfín de estadísticas que pueden ayudarnos a gestionar mejor la forma en que al usamos. Entre los datos más interesantes encontramos:
+* Evolución del número de “me gusta” que ha recibido la página
+* Cuántos de nuestros seguidores están conectados a cada una de las horas del día (y diferenciando según día de la semana). Estos datos nos ayudarán a decidir cuales son las mejores horas y días para publicar.
+* El alcance que ha obtenido cada una de nuestras publicaciones, diferenciando qué número de ellos son seguidores y cuáles no. Además nos indica el número y tipo de reacciones (clicks, me gustas, comentarios) que ha provocado
+* Los datos sociodemográficos (sexo, edad y ciudad) de nuestros seguidores o de las personas a la que han alcanzado nuestras publicaciones.
+
+
