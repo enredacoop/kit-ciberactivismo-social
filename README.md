@@ -412,9 +412,8 @@ Una práctica todavía no muy extendida es la de personalizar el orden en el que
 
 Facebook tiene algunos plantillas para organizar estos elementos, aunque también permite ordenarlas manualmente, lo cual es de gran utilidad, ya que la mayoría de plantillas predefinidas destacan en la cabecera elementos (como videos o eventos) que la mayoría de organizaciones no suelen actualizar con demasiada asiduidad.
 
-Como puedes ver en este pequeño video, las pestañas se organizan en Configuración> Editar página. [Aquí lo explican detalladamente](https://www.facebook.com/help/371634529571035/?helpref=hc_fnav)
+Las pestañas se organizan en Configuración>Editar página. [Aquí lo explican detalladamente](https://www.facebook.com/help/371634529571035/?helpref=hc_fnav)
 
-<iframe width="1280" height="800" src="https://www.useloom.com/embed/5c9bf180f49f11e6a00f45a13719121e" frameborder="0" allowfullscreen></iframe>
 
 ### Destacar publicaciones
 
