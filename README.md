@@ -20,7 +20,7 @@ Proyecto formativo titulado **ACTIVISMO DIGITAL. Cómo mejorar el impacto de las
 * [Técnicas de recolección de información](https://enredacoop.github.io/kit-ciberactivismo-social#Tcnicas-de-recoleccin-de-informacin)
 * [Cómo construir infografías](https://enredacoop.github.io/kit-ciberactivismo-social#como-construir-infografas) 
 * [Ciberactivismo con Facebook y Twitter](https://enredacoop.github.io/kit-ciberactivismo-social#ciberactivismo-con-facebook-y-twitter) 
-* [Organizando una campaña con en las redes sociales](https://enredacoop.github.io/kit-ciberactivismo-social#organizando-una-campaña-en-las-redes-sociales) 
+* [Organizando una campaña en las redes sociales](https://enredacoop.github.io/kit-ciberactivismo-social#organizando-una-campaña-en-las-redes-sociales) 
 * [Bibliografía](https://enredacoop.github.io/kit-ciberactivismo-social#bibliografía) 
 
 # Técnicas de recolección de información
@@ -260,7 +260,7 @@ Dependiendo de los objetivos de nuestra campaña, seleccionaremos cual es el pú
 (Fuente de la imagen [Wingu](http://www.winguweb.org/sitio2012/wp-content/uploads/2014/05/ComunicacionOnlineentuONG.pdf)
 
 
-El esquema de arriba muestra un ejemplo de campaña online clásica de una ONG, cuyo objetivos están centrados en conseguir donaciones y voluntarios. En una campaña de este tipo la centralidad está ocupada por la web, y sus mecanismos para conseguir suscripciones que profundicen la relación con la organización, relegando a las redes sociales a una de las medio a través de los que conseguir visitantes.
+El esquema de arriba muestra un ejemplo de campaña online clásica de una ONG, cuyos objetivos están centrados en conseguir donaciones y voluntarios. En una campaña de este tipo la centralidad está ocupada por la web, y sus mecanismos para conseguir suscripciones que profundicen la relación con la organización, relegando a las redes sociales a uno de las medio a través de los que conseguir visitantes.
 
 Dependiendo de la campaña que estemos realizando el papel de las redes sociales puede ser muy diferentes, y actualmente muchas campañas tienen su centralidad en ellas, una tendencia lógica dado el inmenso crecimiento en usuarios activos que siguen teniendo, y las nuevas funcionalidades que día a día se les van añadiendo, con el objetivo de poder hacer casi cualquier cosa (desde trasmitir eventos a recibir donaciones) sin salir de ellas.
 
@@ -286,7 +286,7 @@ Aunque este taller está centrado en el uso de Facebook y Twitter, es importante
 ### Snapchap, la red de los millennials 
 * ¿Quien la usa? 150 millones de usuarios diarios
 * ¿Cuanto se usa? 30 horas semanales de uso medio
-* ¿Para qué podría usarse desde el activismo? Esta red ha sido poco usada por el activismo, ya que desde sus inicios su funcionamiento se ha caracterizado más por ser un red de mensajería instantánea que una red social. La progresiva ampliación de características y su amplísima difusión entre la más jóvenes (el 50% tiene menos de 24 años) hace que deba tenerse en cuenta para acciones dirigidas a este público. tienes más información [aquí](http://www.socialco.es/para-que-puede-servir-snapchat-a-tu-ong-e-ideas-para-inspirarte/)
+* ¿Para qué podría usarse desde el activismo? Esta red ha sido poco usada por el activismo, ya que desde sus inicios su funcionamiento se ha caracterizado más por ser un red de mensajería instantánea que una red social. La progresiva ampliación de características y su amplísima difusión entre la más jóvenes (el 50% tiene menos de 24 años) hace que deba tenerse en cuenta para acciones dirigidas a este público. Tienes más información [aquí](http://www.socialco.es/para-que-puede-servir-snapchat-a-tu-ong-e-ideas-para-inspirarte/)
 
 ### Pinterest, la red social feminizada
 * ¿Quien la usa? 150 millones de usuarios activos
@@ -304,25 +304,25 @@ Aunque es discutible si es estos servicios de mensajería son técnicamente una 
 
 * Organización “interna”: La mayoría de organizaciones usan estos canales como método de organización o comunicación interna, ya sea con grupos genéricos o grupos específicos para alguna tarea o campaña concreta.
 * Mensajes virales: También es relativamente habitual preparar mensajes específicos para whatsapp con el objetivo de ser viralizados, como versiones modernas del “pásalo”.
-* Canales de telegram como newsletter Hay organizaciones, como [greempeace]( http://www.telegram.me/greenpeace_esp) que han creado su propio canal (público y unidireccional) para enviar noticias.
+* Canales de telegram como newsletter: Hay organizaciones, como [greempeace]( http://www.telegram.me/greenpeace_esp) que han creado su propio canal (público y unidireccional) para enviar noticias.
 * Bots de telegram: A pesar de las ilimitadas posibilidades que abre esta función avanzada de Telegram, todavía no parece muy explotada por el activismo en España.
 
-### Meneame
+### Menéame
 
-Meneame es el mayor agregador de noticias de España, con nueve millones de usuarios únicos al mes. Su funcionamiento general es sencillo: cualquier usuario puede enviar una noticia, y el resto de usuarios la votan, siendo las más votadas la “portada” de la web.
+Menéame es el mayor agregador de noticias de España, con nueve millones de usuarios únicos al mes. Su funcionamiento general es sencillo: cualquier usuario puede enviar una noticia, y el resto de usuarios la votan, siendo las más votadas la “portada” de la web.
 
 Además de esta portada general, existen “subs” temáticos , que cualquier usuario puede crear, que tienen su propia portada especializada.
 
 Dadas estas funciones, parece clara la utilidad que pueden tener meneame para el activismo:
-Dar una gran difusión a noticias o artículos que elaboremos que sean de interés general.
-Encontrar público interesado en temáticas que trabajamos a través de los subs
-En caso de que no exista, siempre podemos plantearnos crear un “sub” sobre la temática que trabajamos, dando una herramienta a su amplia comunidad para encontrar y difundir  información sobre la misma.
+* Dar gran difusión a noticias o artículos que elaboremos que sean de interés general.
+* Encontrar público interesado en temáticas que trabajamos a través de los subs
+* En caso de que no exista, siempre podemos plantearnos crear un “sub” sobre la temática que trabajamos, dando una herramienta a su amplia comunidad para encontrar y difundir  información sobre la misma.
 
 Como en el resto de redes sociales que hemos visto, es importante leer con detenimientos las [normas del sitio]( https://meneame.wikispaces.com/Comenzando) antes de empezar a trabajar en el.
 
 ### La imaginación al poder
 
-Aunque hemos hecho un repaso de las principales redes sociales con un uso claro por parte del activismo social, cualquier red puede servir como plataforma si conseguimos echarle un poquito de imaginación. Desde [Tinder](http://www.eldiario.es/catalunya/barcelona/Vecinos-Barcelona-ocupan-turistico-Ayuntamiento_0_560994279.html) a [AirBnB](http://verne.elpais.com/verne/2015/05/21/articulo/1432198673_037211.html) 
+Aunque hemos hecho un repaso de las principales redes sociales con un uso claro por parte del activismo social, cualquier red puede servir como plataforma si conseguimos echarle un poquito de imaginación...esde [Tinder](http://www.eldiario.es/catalunya/barcelona/Vecinos-Barcelona-ocupan-turistico-Ayuntamiento_0_560994279.html) a [AirBnB](http://verne.elpais.com/verne/2015/05/21/articulo/1432198673_037211.html) 
 
 Fuente: La mayoría de los datos sobre uso de redes sociales están basados en los [estudios de IAB](http://iabspain.es/investigacion/busca-tu-estudio/) 
 
@@ -336,17 +336,17 @@ Empezamos repasando algunos conceptos básicos sobre esta red:
 
 Las personas usan facebook creando una “cuenta”. Esta cuenta debe tener el nombre real de la persona que se registra (aunque facebook todavía es bastante flexible en este aspecto).  
 
-Es importante resaltar que solo las personas pueden abrir una cuenta: los colectivos, asociaciones, empresas etc deben abrir una página. Aunque en sus inicios Facebook era flexible con está política, desde hace unos años tiene poca permisividad, por lo que es imprescindible que si tu colectivo todavía usa facebook como “cuenta” convertirlo en una página, a riesgo de que esta sea eliminada. En la ayuda de Facebook te explican [como hacerlo](https://www.facebook.com/help/175644189234902?helpref=page_content)
+Es importante resaltar que solo las personas pueden abrir una cuenta: los colectivos, asociaciones, empresas, etc deben abrir una página. Aunque en sus inicios Facebook era flexible con está política, desde hace unos años tiene poca permisividad, por lo que es imprescindible que si tu colectivo todavía usa facebook como “cuenta” convertirlo en una página, a riesgo de que esta sea eliminada. En la ayuda de Facebook te explican [como hacerlo](https://www.facebook.com/help/175644189234902?helpref=page_content)
 
 [+info sobre cuentas en facebook](https://www.facebook.com/help/112146705538576?helpref=faq_content)
 
 ### Página
 
-Las páginas son la forma desde que las organizaciones y “celebridades” (ya que las cuentas tienen un límite de 5.000 amigos) gestionan su presencia en facebook. Cualquier persona puede crear una página desde su cuenta. [Como crear una página](https://www.facebook.com/help/104002523024878?helpref=popular_topics&ref=popular)
+Las páginas son la forma desde que las organizaciones y “celebridades” (ya que las cuentas tienen un límite de 5.000 amigos) gestionan su presencia en Facebook. Cualquier persona puede crear una página desde su cuenta. [Como crear una página](https://www.facebook.com/help/104002523024878?helpref=popular_topics&ref=popular)
 
 Para seguir a la actividad de una  página, no tiene que  “hacerte amigo” sino indicar que “te gusta”, este hecho limita información que proporcionas a los gestores de las páginas que sigues.
 
-Una página tiene muchas más ventajas que una cuenta, ya que mejora las formas de publicación, de personalización y da acceso a  multitud de estadísticas sobre tus acciones en Facebook. Profundizaremos en estos aspectos en la sección “gestionar una página”.
+Una página tiene muchas más ventajas que una cuenta, ya que mejora las formas de publicación, de personalización y da acceso a  multitud de estadísticas sobre tus acciones en Facebook, etc. Profundizaremos en estos aspectos en la sección “gestionar una página”.
 
 ### Grupo
 
@@ -358,14 +358,14 @@ Los grupos ofrecen un espacio para intercambiar opiniones acerca de intereses co
 
 * *Secreto:* El grupo sólo es accesible a través de una invitación de uno de sus miembros.
 
-Las funciones que se le pueden dar a los grupos desde el activismo son muy variadas, desde crear un pequeño grupo secreto entre los miembros de nuestra organización, a usar los grupos públicos como forma de difusión. En este sentido, cabe destacar que existen grandes grupos con decenas de miles de miembros sobre todo tipo temáticas, por lo que es interesante hacer un “mapeo” de los grupos que existen sobre las temas que trabajamos antes de iniciar una campaña, y ver el papel que pueden jugar en la misma.
+Las funciones que se le pueden dar a los grupos desde el activismo son muy variadas, desde crear un pequeño grupo secreto entre los miembros de nuestra organización, a usar los grupos públicos como forma de difusión. En este sentido, cabe destacar que existen grandes grupos con decenas de miles de miembros sobre todo tipo temáticas, por lo que es interesante hacer un “mapeo” de los grupos que existen sobre los temas que trabajamos antes de iniciar una campaña, y ver el papel que pueden jugar en la misma.
 
 [+info sobre grupos](https://www.facebook.com/help/1629740080681586/?helpref=hc_fnav)
 
 
 ## Gestionar una página
 
-Como hemos visto la página es nuestra la herramienta básica para las organizaciones, veamos las principales herramientas para su gestión:
+Como ya hemos visto, la página es el espacio adecuado para gestionar la presencia de nuestra organización en Facebook. Veamos las principales herramientas para su gestión:
 
 ### Roles y permisos
 
@@ -387,9 +387,9 @@ Los principales elementos de identidad visual de nuestra organización le Facebo
 
 ![Malas prácticas en fotos de perfil de Facebook](perfil.jpg)
 
-**Perfil:** La foto de perfil es pequeña y cuadrada (170 x 170 px), eso supone un problema para muchas organizaciones cuya imagen corporativa no se adapta bien a este formato, por ser rectangulares o contener demasiados elementos para un tamaño tan pequeño. Es habitual encontrar “soluciones” como las de la imagen, tratando de encajar una imagen rectangular en un espacio cuadrado a base de reducirla o cortarla. 
+**Perfil:** La foto de perfil es pequeña y cuadrada (170 x 170 px), eso supone un problema para muchas organizaciones cuya imagen corporativa no se adapta bien a este formato, por ser rectangulares o contener demasiados elementos para un tamaño tan pequeño. Es habitual encontrar “soluciones” como las de la imagen de arriba, tratando de encajar una imagen rectangular en un espacio cuadrado a base de reducirla o cortarla. 
 
-Para evitar estas situaciones lo ideal es realizar una trabajo gráfico de nuestra organización para dotándolo de [isotipos o imagotipos](http://www.brandemia.org/hablemos-con-propiedad-logotipo-isotipo-imagotipo-isologo-imagen-corporativa-identidad) que puedan adaptarse a estos formatos.
+Para evitar estas situaciones, lo ideal es realizar una trabajo gráfico de nuestra organización para dotándolo de [isotipos o imagotipos](http://www.brandemia.org/hablemos-con-propiedad-logotipo-isotipo-imagotipo-isologo-imagen-corporativa-identidad) que puedan adaptarse a estos formatos.
 
 ![Buena práctica en cabecera de facebook](cabecera.jpg)
 
@@ -426,17 +426,17 @@ Esta función permite fijar en la parte superior de nuestra página una publicac
 
 ![botones de publicación](publicar.jpg)
 
-En la imagen de arriba vemos facebook ha tratado de mejorar la interfaz de publicación para páginas, destacando las funciones que no existen en las publicaciones de las cuentas. 
+En la imagen de arriba vemos la nueva y mejorada interfaz de publicación para páginas, en la que se destacan las funciones que no existen en las publicaciones de las cuentas. 
 Veamos las herramientas básicas que ofrece
 
 ### Enlaces
 
-Empezamos por esta simple función de “colgar” en facebook publicaciones de otra web, ya que esta ha sido “ocultada” de los botones de publicación (probablemente por la obsesión de FB de impedir que los usuarios salgan de su red). 
+Empezamos por esta simple función de “colgar” en Facebook publicaciones de otra web, ya que esta ha sido “ocultada” de los botones de publicación (probablemente por la obsesión de Facebook de impedir que los usuarios salgan de su red). 
 
 Hay que destacar que cuando colgamos un enlace desde nuestra página tenemos acceso a opciones que no existen en las cuentas personales:
-Editar el titular, el texto o la url de la previsualización
-Añadir una foto (o un video) diferente a la previsualización
-Crear un pequeño “carrusel” añadiendo diferente fotos a la publicación.
+* Editar el titular, el texto o la url de la previsualización
+* Añadir una foto (o un video) diferente a la previsualización
+* Crear un pequeño “carrusel” añadiendo diferente fotos a la publicación.
 
 
 [+ info](https://www.facebook.com/help/www/668969529866328?helpref=search
@@ -444,9 +444,12 @@ Crear un pequeño “carrusel” añadiendo diferente fotos a la publicación.
 
 ### Eventos
 
-Crear un evento es la mejor forma de dar a conocer en facebook los distintos actos que organizamos. La ventaja de crear un evento respecto a simplemente colgar la información en tu página es su potencial “viralización targetizada”: La datos muestran que los eventos son más bastante más compartidos que los “posts”, además esa la forma de compartirlo se hace de manera más targetizada, es decir, se comparte de forma con las personas que realmente podrían estar interesadas en asistir. 
+Crear un evento es la mejor forma de dar a conocer en Facebook los distintos actos que organizamos. La ventaja de crear un evento, respecto a simplemente colgar la información en tu página, es su potencial “viralización targetizada”: La datos muestran que los eventos son bastante más compartidos que los “posts”, además esa la forma de compartirlo se hace de manera más targetizada, es decir, se comparte con las personas que realmente podrían estar interesadas en asistir. 
 
-Los eventos además tiene otras ventajas, como pueden ser el recordatorio automático que hace facebook a los asistentes cuando se acerca la hora del mismo; la posibilidad de ir actualizando detalles sobre el mismo; el potencial de creación de comunidad al permitir que los asistentes comenten, cuelguen fotos, o incluso creen grupos con amigos que han asistido al mismo, etc
+Los eventos además tiene otras ventajas:
+* Recordatorio automático que hace facebook a los asistentes cuando se acerca la hora del mismo
+* Posibilidad de ir actualizando los detalles del evento 
+* El potencial de creación de comunidad al permitir que los asistentes comenten, cuelguen fotos, o incluso creen grupos con amigos que han asistido al mismo, etc
 [+ info](https://www.facebook.com/help/www/1076296042409786/?helpref=hc_fnav
 )
 
@@ -460,7 +463,7 @@ Las posibilidades que tenemos al subir videos o fotos desde un página aumentan.
 
 La gran novedad de facebook en 2016 fue el lanzamiento de “FB live”, una herramienta para transmitir en streaming desde los teléfonos móviles. Para hacerlo solo hay que pulsar el botón “transmitir” desde la aplicación de facebook instalada en el teléfono. 
 
-Los videos en directo son promocionados de una forma importante por facebook, ya que cuando se inicia se le envía una notificación a todos los seguidores de la página que estén conectados en ese momento. Por ello es importante preparar cuidadosamente y con antelación estas transmisiones, ya que es frustrante “molestar” a tus seguidores con la notificación de un vídeo en directo, y que cuando entren se corte, sea inaudible, se esté enfocando a otra parte, etc…
+Los videos en directo son promocionados de una forma importante por facebook, ya que cuando se inician se le envía una notificación a todos los seguidores de la página que estén conectados en ese momento. Por ello es importante preparar cuidadosamente y con antelación estas transmisiones, ya que es frustrante “molestar” a tus seguidores con la notificación de un vídeo en directo, y que cuando entren se corte, sea inaudible, se esté enfocando a otra parte, etc…
 
 Facebook recomienda que la duración de un video en directo sea de al menos cinco minutos, ya que la gente se va incorporando poco a poco. la duración máxima que se permite actualmente es de 90 minutos. 
 
@@ -476,10 +479,10 @@ Las notas ahora presentan una estética muy cuidada (y bastante alejada del rest
 
 ## Estadísticas 
 
-Una de las grandes ventajas de las páginas es que  facebook nos proporciona un sinfín de estadísticas que pueden ayudarnos a gestionar mejor la forma en que al usamos. Entre los datos más interesantes encontramos:
+Una de las grandes ventajas de las páginas es que   nos proporciona un sinfín de estadísticas que pueden ayudarnos a gestionar mejor la forma en que las usamos. Entre los datos más interesantes encontramos:
 * Evolución del número de “me gusta” que ha recibido la página
 * Cuántos de nuestros seguidores están conectados a cada una de las horas del día (y diferenciando según día de la semana). Estos datos nos ayudarán a decidir cuales son las mejores horas y días para publicar.
-* El alcance que ha obtenido cada una de nuestras publicaciones, diferenciando qué número de ellos son seguidores y cuáles no. Además nos indica el número y tipo de reacciones (clicks, me gustas, comentarios) que ha provocado
+* El alcance que ha obtenido cada una de nuestras publicaciones, diferenciando qué número de ellos son seguidores y cuáles no. Además nos indica el número y tipo de reacciones (clicks, me gustas, comentarios) que ha provocado.
 * Los datos sociodemográficos (sexo, edad y ciudad) de nuestros seguidores o de las personas a la que han alcanzado nuestras publicaciones.
 
 ## Usar Twitter en nuestra estrategia comunicativa
@@ -488,10 +491,10 @@ Una de las grandes ventajas de las páginas es que  facebook nos proporciona un 
 
 #### Perfil
 
-A diferencia de lo que veíamos en Facebook, en Twitter las no existen diferencia entre personas y organizaciones: todos tenemos un “simple” perfil, que (salvo contadas excepciones) es público a cualquier internauta (aunque no esté registrado en twitter) 
+A diferencia de lo que veíamos en Facebook, en Twitter no existen diferencias entre personas y organizaciones: todos tenemos un “simple” perfil, que (salvo contadas excepciones) es público a cualquier internauta (aunque no esté registrado en twitter) 
 a través de la URL www.twitter.com/nombredeusuario.
 
-Los perfiles tienen pocas opciones de personalización: en todos podemos encontrar   nombre, foto de perfil, cabecera, una breve biografía , número de tuits, número de seguidores y cuentas a las que sigue el usuario, listas y una timeline que recoge todos los tuits publicados por el usuario por manera cronológica.
+Los perfiles tienen pocas opciones de personalización: en todos podemos encontrar   nombre, foto de perfil, cabecera, una breve biografía , número de tuits, número de seguidores y cuentas a las que sigue el usuario, listas y un timeline que recoge todos los tuits publicados por el usuario de manera cronológica.
 
 Para añadir imágenes de perfil y cabecera, igual que veíamos en facebook, es imprescindible saber las medidas de cada una. Tienes toda la información [aquí](https://support.twitter.com/articles/166743)
 
@@ -508,8 +511,8 @@ Esta simplísima herramienta es una de las grandes armas de twitter, ya que perm
 Durante el taller hicimos un pequeño recorrido sobre los diferente usos que se le dan al HT desde las organizaciones participantes. Estas fueron las respuestas:
 
 * Etiquetar los tuits sobre determinada temática para que puedan encontrarlo las personas que buscan información sobre ella, dándole así más repercusión #Ciberacivismo #Transparencia #Pobreza
-* “Transmitir” un evento determinado facilitando tanto dar información sobre el mismo, como permitir las intervenciones de personas que no han asistido: por ejemplo para este taller usamos  el HT #DaTacticAND
-* Nominar campañas, una tendencia creciente es usar como nombre o slogan de determinadas campañas directamente con un HT, facilitando así las sinergias online-offline #StopDesahucios #WelcomeRefugees #PaguenLoJusto #VíasLegalesYA
+* “Transmitir” un evento determinado: facilitando así su difusión por la red y  permitir las intervenciones de personas que no han asistido. Para este taller usamos  el HT #DaTacticAND
+* Nominar campañas: una tendencia creciente es usar como nombre o slogan de determinadas campañas directamente con un HT, facilitando así las sinergias online-offline #StopDesahucios #WelcomeRefugees #PaguenLoJusto #VíasLegalesYA
 * Agrupar tuits para demostrar fuerza, y así aparecer entre los temas más comentados del momento en twitter (TT)
 * Reforzar palabras, aprovechan que los HT aparecen en un color diferente al resto del mensaje es habitual usarlo con el único objetivo de dar más fuerza a determinadas palabras o frases #Basta #Nunca #LoHaremos
 * Como “dialecto” tuitero: el limitado espacio que ofrece twitter, unido a la necesidad de crear herramientas lingüísticas de cercanía para hablar entre desconocidos, ha creado diversas variaciones lingüísticas exclusivas de esta red basada en gran parte en el uso de HT concretos (#EsBien #MatameCamión) sobre la que ya existen [estudios lingüísticos](https://www.academia.edu/10138878/HOLI_EN_TUITER_HABLAMOS_RARO_UN_BESI_La_variaci%C3%B3n_ling%C3%BC%C3%ADstica_en_Twitter) 
@@ -518,8 +521,8 @@ Durante el taller hicimos un pequeño recorrido sobre los diferente usos que se 
 
 Los TT son los temas (palabras, o HT) más comentados en twitter en un determinado momento. Los temas son destacados en un espacio propio de la web y es habitual que los medios de comunicación se hagan eco de los temas que han hecho “arder twitter”.
 
-El algoritmo que usa twitter para determinar qué temas alcanzan llegan a TT no se conoce en su totalidad, aunque si son de sobra conocido sus aspectos más relevantes:
-* Es importante señalar que los TT´s no son las palabras más usadas, sino las que han experimentado un mayor aumento en su uso durante un determinado periodo de tiempo. Por tanto una palabra muy usada (por ejemplo Madrid) necesitará ser usada infinidad de veces más para llegar a ser TT que una que no se haya usado nunca (por ejemplo #Vamos28F). Este es el motivo por el que cuando se planea alcanzar un TT, se pone una hora de inicio,asegurando que nadie la use anteriormente y que de repente se use de manera explosiva.
+El algoritmo que usa twitter para determinar qué temas llegan a TT no se conoce en su totalidad, aunque si son de sobra conocidos sus aspectos más relevantes:
+* Es importante señalar que los TT´s no son las palabras más usadas, sino las que han experimentado un mayor aumento en su uso durante un determinado periodo de tiempo. Por tanto, una palabra muy usada (por ejemplo Madrid) necesitará ser usada infinidad de veces más para llegar a ser TT que una que no se haya usado nunca (por ejemplo #Vamos28F). Este es el motivo por el que cuando se planea alcanzar un TT se pone una hora de inicio,asegurando que nadie la use anteriormente. 
 * No solo es importante el número de tuits, también se contabilizan los Retuits 
 * El número de seguidores que tienen las cuentas que usan la palabra también tiene una influencia decisiva.
 
@@ -530,55 +533,55 @@ Los mensajes directos son la forma con la que establecer un contacto privado ent
 Los usos más habituales en movimientos sociales son:
 * Como forma de organización de los tuiteros de la organización (este es el único uso que le daban las organizaciones asistentes al taller). Se crea un grupo con los miembros de confianza y desde allí se coordina su actividad
 * Para recibir mensajes y preguntas de personas interesadas. Aunque la configuración estándar limita la recepción de MD a personas a las que sigues, es posible reconfigurarla para aceptar MD de cualquier usuario de Twitter. Las cuentas que tiene esta configuración aparecen destacadas en el buscador con la etiqueta “proporciona asistencia”, pudiéndose configurar también un horario de asistencia (que aparecerá en tu perfil)
-* Para enviar mensajes masivos a tus seguidores: Dado a fugacidad que tienen los tuits, es posible que, en ocasiones, queramos dar una difusión masiva a una determinado mensaje enviándolo a todos nuestros seguidores. Esto puede hacerse de manera manual, aunque habitualmente se usan herramientas externas que automatizan esta tediosa tarea, como por ejemplo http://botize.com/
+* Para enviar mensajes masivos a tus seguidores: Dado a fugacidad que tienen los tuits, es posible que queramos dar a determinados en determinado mensaje una difusión mayor, enviándolo a todos nuestros seguidores. Esto puede hacerse de manera manual, aunque habitualmente se usan herramientas externas que automatizan esta tediosa tarea, como por ejemplo http://botize.com/
 
 #### Me gusta
 
-Al igual que en FB, en twitter también es posible dar a “me gusta” a los mensajes de otros usuarios. Esta acción puede usarse de forma literal (para marcar que te gusta un comentario), aunque también es usada habitual como forma de “guardas” determinados tuits, ya que todos tus “me gustas” se guardan (y son públicos). Esta segunda función se ha potenciado con la aparición de la funcionalidad “momentos”, que veremos en el siguiente apartado 
+Al igual que en Facebook, en Twitter también es posible dar a “me gusta” a los mensajes de otros usuarios. Esta acción puede usarse de forma literal (para marcar que te gusta un comentario), aunque también es usada habitualmente como forma de “guardar” determinados tuits, ya que todos tus “me gustas” se guardan (y son públicos). Esta segunda función se ha potenciado con la aparición de la funcionalidad “momentos”, que veremos en el siguiente apartado 
 
 #### Mención
 
-La mención es la forma de nombrar a cualquier usuario (lo estemos siguiendo o no). Para hacerlo basta con escribir su nombre con la @ delante: @OxfamIntermon. Cuando te nombran en twitter, te llega una notificación.  
+La mención es la forma de nombrar a cualquier usuario (lo estemos siguiendo o no). Para hacerlo basta con escribir su nombre con la @ delante(v.g. @OxfamIntermon). Cuando te nombran en twitter, te llega una notificación.  
 
-Esta funcionalidad suele usarse para responder a un usuario y/o conversar con él (a través del botón reply). Aunque hay que advertir que haciendo este uso (que hace aparecer el nombre del usuario al principio del tuit de respuesta), provoca que el hilo de la conversación solo le aparezca a las personas que siguen ambas cuentas. Es por ello que es habitual añadir un punto (“.”) al comienzo de tuit, haciendo así que se visible para todos tus seguidores.
+Esta funcionalidad suele usarse para responder a un usuario y/o conversar con él (a través del botón reply). Aunque hay que advertir que haciendo este uso (que hace aparecer el nombre del usuario al principio del tuit de respuesta), provoca que el hilo de la conversación solo le aparezca a las personas que siguen ambas cuentas. Es por ello que es habitual añadir un punto (“.”) al comienzo del tuit, haciendo así que se visible para todos tus seguidores. (.@OxfamIntermon)
 
 ### Gestionar una cuenta colectiva
 
 #### Gestionar permisos (Tweetdeck)
 
 Uno de los problemas de gestionar una cuenta colectiva de Twitter, es que no se pueden asignar permisos y roles de gestión de forma directa (del modo que veíamos en Facebook), lo que obligaría a compartir la contraseña de nuestra cuenta con todas las personas que quieran colaborar en ella, con los consiguientes problemas de seguridad.
-Para solucionar este problema existe una herramienta oficial de twitter https://tweetdeck.twitter.com/ que permite asignar permisos de publicación en nuestra cuenta a otras cuentas de twitter, sin necesidad de proporcionar la contraseña.
+Para solucionar este problema existe una herramienta oficial de twitter https://tweetdeck.twitter.com/ que permite asignar permisos de publicación en nuestra cuenta  sin necesidad de proporcionar la contraseña.
 
 El gran déficit de Tweetdeck es que todavía no tiene una aplicación oficial para teléfonos móviles, limitando así sus posibilidades de uso.
 
 #### Listas
 
-Esta funcionalidad permite crear grupos personalizados de usuarios a los que queremos hacer un especial seguimiento. Esta funcionalidad es de gran utilidad para cuentas colectivas, ya que permiten “monitorizar” la actividad en twitter de determinadas cuentas y poder actuar sobre ella.
+Esta funcionalidad permite crear grupos personalizados de usuarios a los que queremos hacer un especial seguimiento. Esta funcionalidad es de gran utilidad para cuentas colectivas, ya que permiten “monitorizar” la actividad en twitter de determinadas cuentas y poder actuar sobre ellas.
 
-Los usos de estas listas pueden ser muy variados: puede hacer listas de “miembros de mi organización” o “colectivos cercanos” que me ayuden a difundir sus contenidos, o bien listas del tipo “diputados que votaron aquella cosa tan chunga”, para  buscar oportunidades de confrontar en el campo de las ideas. 
+Los usos de estas listas pueden ser muy variados: pueden hacerse listas de “miembros de mi organización” o “colectivos cercanos” que me ayuden a difundir sus contenidos; o bien listas del tipo “diputados que votaron aquella cosa tan chunga”, para  buscar oportunidades de confrontar en el campo de las ideas. 
 
 #### Destacados
 
-Una de las pocas formas que tenemos de personalizar nuestro timeline de twitter es destacando un tuit concreto. Este tuit destacado aparecerá en la parte superior hasta qeu destaquemos otro (o le quitemos la categoría de destacado)
+Una de las pocas formas que tenemos de personalizar nuestro timeliner es destacando un tuit concreto. Este tuit destacado aparecerá en la parte superior hasta que destaquemos otro (o le quitemos la categoría de destacado).
 
 ### Nuevas funcionalidades de twitter
 
 #### Momentos
 
-Momentos ha sido la gran novedad de Twitter en 2017. Es una funcionalidad que permite agrupar diferentes tuits (propios ajenos) y presentarlos con un diseño algo más cuidado de lo que Twitter nos tiene acostumbrados (puedes añadir una portada, un título y una breve descripción).
+"Momentos" ha sido la gran novedad de Twitter en 2017. Es una funcionalidad que permite agrupar diferentes tuits (propios y ajenos) y presentarlos con un diseño algo más cuidado de lo que Twitter nos tiene acostumbrados (puedes añadir una portada, un título y una breve descripción).
 
-Para este taller creamos un “momento”  en el que agrupamos algunos de los tuits que se hicieron durante el mismo https://twitter.com/i/moments/827156471259480064
+Para este taller [creamos un “momento”](https://twitter.com/i/moments/827156471259480064)  en el que agrupamos algunos de los tuits que se hicieron durante el mismo. 
 
 Tienes toda la información sobre cómo crear y configurar los momentos [aquí](https://support.twitter.com/articles/20174549?lang=es)
 
 
 #### Gifs
 
-El botón “gifs” fue una de las principales novedades de twitter e 2016. Se trata un botón que aparece en la caja de publicación y que facilita la navegación por la web http://giphy.com/ para buscar un gif concreto e integrarlo en nuestro tuit.
+El botón “gifs” fue una de las principales novedades de twitter en 2016. Se trata de un botón que aparece en la caja de publicación y que facilita la navegación por la web http://giphy.com/ para buscar un gif concreto e integrarlo en nuestro tuit.
 
 #### Encuestas
 
-Las encuestas fueron la novedad en Twitter en 2015.  Se trata un botón que aparece en la caja de publicación y que abre un pequeño menú con la que crear una encuesta con las siguientes características: 
+Las encuestas fueron la novedad de Twitter en 2015.  Se trata un botón que aparece en la caja de publicación y que abre un pequeño menú con la que crear una encuesta con las siguientes características: 
 
 * Puedes usar hasta 140 caracteres en la pregunta de la encuesta.
 * La encuesta puede tener hasta cuatro opciones. Puedes usar hasta 25 caracteres para cada opción.
@@ -587,7 +590,7 @@ Las encuestas fueron la novedad en Twitter en 2015.  Se trata un botón que apar
 
 ### Herramientas de automatización
 
-Una práctica cada vez más habitual entre las organizaciones es la de automatizar ciertas funciones de twitter. 
+Una práctica cada vez más habitual entre las organizaciones es la de automatizar ciertas funciones de Twitter. Algunas de las más habituales son:
 
 #### Programar tuits con Twitdeck 
 
@@ -597,17 +600,17 @@ Esta función puede hacerse directamente desde la palicación oficial de Twitter
  
 #### Automatización avanzada con IFTT
 
-[IFTT](https://ifttt.com/discover) iniciales de If This, Then That (Si ocurre esto, Haz esto otro) es completa herramienta de automatización, no solo para Twitter, sino para prácticamente cualquier servicio de internet. 
+[IFTT](https://ifttt.com/discover) iniciales de If This, Then That (Si ocurre esto, Haz esto otro) es una completa herramienta de automatización, no solo para Twitter, sino para prácticamente cualquier servicio de internet. 
 
-Su uso es bastante intuitivo, y la función que suele desarrollar en Twitter es la automatizar publicaciones recurrentes (al estilo Twitdeck), usando recetas del tipo “si es martes y son las 12:00, haz este tuit”. 
+Su uso es bastante intuitivo, y la función para la que se suele usar en Twitter es la automatizar publicaciones recurrentes (al estilo Twitdeck), usando recetas del tipo “si es martes y son las 12:00, haz este tuit”. 
 
 Pero IFTT permite otro tipo de automatizaciones interesantes en twitter, como por ejemplo publicar automáticamente nuevas noticias de una web determinada: “si está web publica una nueva noticia, tuiteala con este mensaje, o incluso “Si este medio de comunicación publica alguna noticia en cuyo título esté esta palabra, tuiteala”.
 
 ### Analítica 
 
-Twitter ofrece también una analitica bastante completa de nuestra actividad en twitter. Las estadísticas de  una cuenta pueden consultarse accediendo a https://analytics.twitter.com/
+Twitter ofrece también una analitica bastante completa de nuestra actividad. Las estadísticas de  una cuenta pueden consultarse accediendo a [https://analytics.twitter.com/](https://analytics.twitter.com/)
 
-* Entre los datos disponibles están:
+Entre los datos disponibles están:
 * El número de impresiones e interacciones de cada uno de nuestros tuits
 * La evolución de nuestra comunidad
 * Los intereses de nuestros seguidores
